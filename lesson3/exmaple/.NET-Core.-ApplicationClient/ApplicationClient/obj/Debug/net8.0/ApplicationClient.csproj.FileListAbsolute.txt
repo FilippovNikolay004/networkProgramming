@@ -1,0 +1,14 @@
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ApplicationClient\bin\Debug\net8.0\ApplicationClient.exe
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ApplicationClient\bin\Debug\net8.0\ApplicationClient.deps.json
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ApplicationClient\bin\Debug\net8.0\ApplicationClient.runtimeconfig.json
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ApplicationClient\bin\Debug\net8.0\ApplicationClient.dll
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ApplicationClient\bin\Debug\net8.0\ApplicationClient.pdb
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ApplicationClient\obj\Debug\net8.0\ApplicationClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ApplicationClient\obj\Debug\net8.0\ApplicationClient.AssemblyInfoInputs.cache
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ApplicationClient\obj\Debug\net8.0\ApplicationClient.AssemblyInfo.cs
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ApplicationClient\obj\Debug\net8.0\ApplicationClient.csproj.CoreCompileInputs.cache
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ApplicationClient\obj\Debug\net8.0\ApplicationClient.dll
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ApplicationClient\obj\Debug\net8.0\refint\ApplicationClient.dll
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ApplicationClient\obj\Debug\net8.0\ApplicationClient.pdb
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ApplicationClient\obj\Debug\net8.0\ApplicationClient.genruntimeconfig.cache
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ApplicationClient\obj\Debug\net8.0\ref\ApplicationClient.dll

@@ -1,0 +1,11 @@
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\Reverse\bin\Debug\net8.0\Reverse.deps.json
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\Reverse\bin\Debug\net8.0\Reverse.dll
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\Reverse\bin\Debug\net8.0\Reverse.pdb
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\Reverse\obj\Debug\net8.0\Reverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\Reverse\obj\Debug\net8.0\Reverse.AssemblyInfoInputs.cache
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\Reverse\obj\Debug\net8.0\Reverse.AssemblyInfo.cs
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\Reverse\obj\Debug\net8.0\Reverse.csproj.CoreCompileInputs.cache
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\Reverse\obj\Debug\net8.0\Reverse.dll
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\Reverse\obj\Debug\net8.0\refint\Reverse.dll
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\Reverse\obj\Debug\net8.0\Reverse.pdb
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\Reverse\obj\Debug\net8.0\ref\Reverse.dll

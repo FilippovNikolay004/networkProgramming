@@ -1,0 +1,11 @@
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll

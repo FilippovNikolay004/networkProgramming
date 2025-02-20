@@ -1,0 +1,14 @@
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Step\3 course\networkProgramming\lesson3\exmaple\.NET-Core.-ApplicationClient\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

@@ -1,0 +1,128 @@
+C:\Учебный процесс\C#\Сетевое программирование .NET\TCP\TCP\bin\Debug\TCP.exe
+C:\Учебный процесс\C#\Сетевое программирование .NET\TCP\TCP\bin\Debug\TCP.pdb
+C:\Учебный процесс\C#\Сетевое программирование .NET\TCP\TCP\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\C#\Сетевое программирование .NET\TCP\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Учебный процесс\C#\Сетевое программирование .NET\TCP\TCP\obj\Debug\TCP.csproj.GenerateResource.Cache
+C:\Учебный процесс\C#\Сетевое программирование .NET\TCP\TCP\obj\Debug\TCP.exe
+C:\Учебный процесс\C#\Сетевое программирование .NET\TCP\TCP\obj\Debug\TCP.pdb
+C:\Учебный процесс\C#\Сетевое программирование .NET\TCP\TCP\obj\Debug\TCP.Form1.resources
+C:\Учебный процесс\C#\Сетевое программирование .NET\6. TCP (синхронная потоковая модель)\TCP\obj\Debug\TCP.exe
+C:\Учебный процесс\C#\Сетевое программирование .NET\6. TCP (синхронная потоковая модель)\TCP\obj\Debug\TCP.pdb
+C:\Учебный процесс\C#\Сетевое программирование .NET\6. TCP (синхронная потоковая модель)\TCP\bin\Debug\TCP.exe
+C:\Учебный процесс\C#\Сетевое программирование .NET\6. TCP (синхронная потоковая модель)\TCP\bin\Debug\TCP.pdb
+C:\Учебный процесс\C#\Сетевое программирование .NET\6. TCP (синхронная потоковая модель)\TCP\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\C#\Сетевое программирование .NET\6. TCP (синхронная потоковая модель)\TCP\obj\Debug\TCP.Form1.resources
+C:\Учебный процесс\C#\Сетевое программирование .NET\6. TCP (синхронная потоковая модель)\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Учебный процесс\C#\Сетевое программирование .NET\6. TCP (синхронная потоковая модель)\TCP\obj\Debug\TCP.csproj.GenerateResource.Cache
+C:\Documents and Settings\polyanskiy\Рабочий стол\Сетевое программирование .NET\6. TCP (синхронная потоковая модель)\TCP\obj\Debug\TCP.exe
+C:\Documents and Settings\polyanskiy\Рабочий стол\Сетевое программирование .NET\6. TCP (синхронная потоковая модель)\TCP\obj\Debug\TCP.pdb
+C:\Учебный процесс\C#\Сетевое программирование .NET\Примеры\6. TCP (синхронная потоковая модель)\TCP\obj\Debug\TCP.exe
+C:\Учебный процесс\C#\Сетевое программирование .NET\Примеры\6. TCP (синхронная потоковая модель)\TCP\obj\Debug\TCP.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Сетевое программирование .NET\Примеры\7. TCP (синхронная потоковая модель)\TCP\obj\Debug\TCP.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Сетевое программирование .NET\Примеры\7. TCP (синхронная потоковая модель)\TCP\obj\Debug\TCP.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Сетевое программирование .NET\Примеры\7. TCP (синхронная потоковая модель)\TCP\bin\Debug\TCP.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Сетевое программирование .NET\Примеры\7. TCP (синхронная потоковая модель)\TCP\bin\Debug\TCP.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Сетевое программирование .NET\Примеры\7. TCP (синхронная потоковая модель)\TCP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Сетевое программирование .NET\Примеры\7. TCP (синхронная потоковая модель)\TCP\obj\Debug\TCP.Form1.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Сетевое программирование .NET\Примеры\7. TCP (синхронная потоковая модель)\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Сетевое программирование .NET\Примеры\7. TCP (синхронная потоковая модель)\TCP\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Сетевое программирование .NET\Примеры\7. TCP (синхронная потоковая модель)\TCP\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Vitaliy\Сетевое программирование .NET\Примеры\7. TCP (синхронная потоковая модель)\TCP\obj\Debug\TCP.exe
+C:\Vitaliy\Сетевое программирование .NET\Примеры\7. TCP (синхронная потоковая модель)\TCP\obj\Debug\TCP.pdb
+C:\Vitaliy\Сетевое программирование .NET\Примеры\7. TCP (синхронная потоковая модель)\TCP\bin\Debug\TCP.exe
+C:\Vitaliy\Сетевое программирование .NET\Примеры\7. TCP (синхронная потоковая модель)\TCP\bin\Debug\TCP.pdb
+C:\Vitaliy\Сетевое программирование .NET\Примеры\7. TCP (синхронная потоковая модель)\TCP\obj\Debug\ResolveAssemblyReference.cache
+C:\Vitaliy\Сетевое программирование .NET\Примеры\7. TCP (синхронная потоковая модель)\TCP\obj\Debug\TCP.Form1.resources
+C:\Vitaliy\Сетевое программирование .NET\Примеры\7. TCP (синхронная потоковая модель)\TCP\obj\Debug\TCP.Properties.Resources.resources
+D:\Учебный процесс\Сетевое программирование .NET\Примеры\7. TCP (Synchronous streaming model)\TCP\obj\Debug\TCP.exe
+D:\Учебный процесс\Сетевое программирование .NET\Примеры\7. TCP (Synchronous streaming model)\TCP\obj\Debug\TCP.pdb
+D:\Учебный процесс\Сетевое программирование .NET\Примеры\7. TCP (Synchronous streaming model)\TCP\bin\Debug\TCP.exe
+D:\Учебный процесс\Сетевое программирование .NET\Примеры\7. TCP (Synchronous streaming model)\TCP\bin\Debug\TCP.pdb
+D:\Учебный процесс\Сетевое программирование .NET\Примеры\7. TCP (Synchronous streaming model)\TCP\obj\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\Сетевое программирование .NET\Примеры\7. TCP (Synchronous streaming model)\TCP\obj\Debug\TCP.Form1.resources
+D:\Учебный процесс\Сетевое программирование .NET\Примеры\7. TCP (Synchronous streaming model)\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Programming\Сетевое программирование .NET\Примеры\5. TCP (Synchronous streaming model)\TCP\obj\Debug\TCP.exe
+C:\Programming\Сетевое программирование .NET\Примеры\5. TCP (Synchronous streaming model)\TCP\obj\Debug\TCP.pdb
+C:\Programming\Сетевое программирование .NET\Примеры\5. TCP (Synchronous streaming model)\TCP\bin\Debug\TCP.exe
+C:\Programming\Сетевое программирование .NET\Примеры\5. TCP (Synchronous streaming model)\TCP\bin\Debug\TCP.pdb
+C:\Programming\Сетевое программирование .NET\Примеры\5. TCP (Synchronous streaming model)\TCP\obj\Debug\TCP.csprojResolveAssemblyReference.cache
+C:\Programming\Сетевое программирование .NET\Примеры\5. TCP (Synchronous streaming model)\TCP\obj\Debug\TCP.Form1.resources
+C:\Programming\Сетевое программирование .NET\Примеры\5. TCP (Synchronous streaming model)\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Programming\Сетевое программирование .NET\Примеры\5. TCP (Synchronous streaming model)\TCP\obj\Debug\TCP.csproj.GenerateResource.Cache
+C:\Programming\Сетевое программирование .NET\Примеры\5. TCP (Synchronous streaming model)\TCP\bin\Debug\TCP.exe.config
+C:\Programming\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\bin\Debug\TCP.exe.config
+C:\Programming\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.exe
+C:\Programming\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.pdb
+C:\Programming\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\bin\Debug\TCP.exe
+C:\Programming\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\bin\Debug\TCP.pdb
+C:\Programming\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.csprojResolveAssemblyReference.cache
+C:\Programming\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.Form1.resources
+C:\Programming\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Programming\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.csproj.GenerateResource.Cache
+C:\Programming\Сетевое программирование .NET\Примеры\7. TCP (async & await)\TCP\bin\Debug\TCP.exe.config
+C:\Programming\Сетевое программирование .NET\Примеры\7. TCP (async & await)\TCP\obj\Debug\TCP.exe
+C:\Programming\Сетевое программирование .NET\Примеры\7. TCP (async & await)\TCP\obj\Debug\TCP.pdb
+C:\Programming\Сетевое программирование .NET\Примеры\7. TCP (async & await)\TCP\bin\Debug\TCP.exe
+C:\Programming\Сетевое программирование .NET\Примеры\7. TCP (async & await)\TCP\bin\Debug\TCP.pdb
+C:\Programming\Сетевое программирование .NET\Примеры\7. TCP (async & await)\TCP\obj\Debug\TCP.csprojResolveAssemblyReference.cache
+C:\Programming\Сетевое программирование .NET\Примеры\7. TCP (async & await)\TCP\obj\Debug\TCP.Form1.resources
+C:\Programming\Сетевое программирование .NET\Примеры\7. TCP (async & await)\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Programming\Сетевое программирование .NET\Примеры\7. TCP (async & await)\TCP\obj\Debug\TCP.csproj.GenerateResource.Cache
+D:\Programming\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\bin\Debug\TCP.exe.config
+D:\Programming\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.exe
+D:\Programming\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.pdb
+D:\Programming\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\bin\Debug\TCP.exe
+D:\Programming\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\bin\Debug\TCP.pdb
+D:\Programming\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.csprojResolveAssemblyReference.cache
+D:\Programming\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.Form1.resources
+D:\Programming\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.Properties.Resources.resources
+D:\Programming\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.csproj.GenerateResource.Cache
+C:\ITStep\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\bin\Debug\TCP.exe.config
+C:\ITStep\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.exe
+C:\ITStep\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.pdb
+C:\ITStep\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\bin\Debug\TCP.exe
+C:\ITStep\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\bin\Debug\TCP.pdb
+C:\ITStep\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.csprojResolveAssemblyReference.cache
+C:\ITStep\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.Form1.resources
+C:\ITStep\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\ITStep\Сетевое программирование .NET\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.csproj.GenerateResource.Cache
+C:\Users\Polyanskiy\Desktop\Примеры\6. TCP (async & await)\TCP\bin\Debug\TCP.exe.config
+C:\Users\Polyanskiy\Desktop\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.exe
+C:\Users\Polyanskiy\Desktop\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.pdb
+C:\Users\Polyanskiy\Desktop\Примеры\6. TCP (async & await)\TCP\bin\Debug\TCP.exe
+C:\Users\Polyanskiy\Desktop\Примеры\6. TCP (async & await)\TCP\bin\Debug\TCP.pdb
+C:\Users\Polyanskiy\Desktop\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.csprojResolveAssemblyReference.cache
+C:\Users\Polyanskiy\Desktop\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.Form1.resources
+C:\Users\Polyanskiy\Desktop\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Users\Polyanskiy\Desktop\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.csproj.GenerateResource.Cache
+D:\Programming\Сетевое программирование .NET\Примеры\Примеры\Примеры\6. TCP (async & await)\TCP\bin\Debug\TCP.exe.config
+D:\Programming\Сетевое программирование .NET\Примеры\Примеры\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.exe
+D:\Programming\Сетевое программирование .NET\Примеры\Примеры\Примеры\6. TCP (async & await)\TCP\obj\Debug\TCP.pdb
+D:\IT Step\Сетевое программирование .NET\Примеры\7. TCP (async & await)\TCP\bin\Debug\TCP.exe.config
+D:\IT Step\Сетевое программирование .NET\Примеры\7. TCP (async & await)\TCP\obj\Debug\TCP.exe
+D:\IT Step\Сетевое программирование .NET\Примеры\7. TCP (async & await)\TCP\obj\Debug\TCP.pdb
+D:\IT Step\Сетевое программирование .NET\Примеры\7. TCP (async & await)\TCP\bin\Debug\TCP.exe
+D:\IT Step\Сетевое программирование .NET\Примеры\7. TCP (async & await)\TCP\bin\Debug\TCP.pdb
+D:\IT Step\Сетевое программирование .NET\Примеры\7. TCP (async & await)\TCP\obj\Debug\TCP.csprojResolveAssemblyReference.cache
+D:\IT Step\Сетевое программирование .NET\Примеры\7. TCP (async & await)\TCP\obj\Debug\TCP.Form1.resources
+D:\IT Step\Сетевое программирование .NET\Примеры\7. TCP (async & await)\TCP\obj\Debug\TCP.Properties.Resources.resources
+D:\IT Step\Сетевое программирование .NET\Примеры\7. TCP (async & await)\TCP\obj\Debug\TCP.csproj.GenerateResource.Cache
+D:\КА ШАГ\Сетевое программирование\4. TCP\TCP\bin\Debug\TCP.exe.config
+D:\КА ШАГ\Сетевое программирование\4. TCP\TCP\bin\Debug\TCP.exe
+D:\КА ШАГ\Сетевое программирование\4. TCP\TCP\bin\Debug\TCP.pdb
+D:\КА ШАГ\Сетевое программирование\4. TCP\TCP\obj\Debug\TCP.csprojAssemblyReference.cache
+D:\КА ШАГ\Сетевое программирование\4. TCP\TCP\obj\Debug\TCP.Form1.resources
+D:\КА ШАГ\Сетевое программирование\4. TCP\TCP\obj\Debug\TCP.Properties.Resources.resources
+D:\КА ШАГ\Сетевое программирование\4. TCP\TCP\obj\Debug\TCP.csproj.GenerateResource.cache
+D:\КА ШАГ\Сетевое программирование\4. TCP\TCP\obj\Debug\TCP.exe
+D:\КА ШАГ\Сетевое программирование\4. TCP\TCP\obj\Debug\TCP.pdb
+D:\Step\3 course\networkProgramming\lesson2\example\4. TCP\TCP\bin\Debug\TCP.exe.config
+D:\Step\3 course\networkProgramming\lesson2\example\4. TCP\TCP\bin\Debug\TCP.exe
+D:\Step\3 course\networkProgramming\lesson2\example\4. TCP\TCP\bin\Debug\TCP.pdb
+D:\Step\3 course\networkProgramming\lesson2\example\4. TCP\TCP\obj\Debug\TCP.csproj.AssemblyReference.cache
+D:\Step\3 course\networkProgramming\lesson2\example\4. TCP\TCP\obj\Debug\TCP.Form1.resources
+D:\Step\3 course\networkProgramming\lesson2\example\4. TCP\TCP\obj\Debug\TCP.Properties.Resources.resources
+D:\Step\3 course\networkProgramming\lesson2\example\4. TCP\TCP\obj\Debug\TCP.csproj.GenerateResource.cache
+D:\Step\3 course\networkProgramming\lesson2\example\4. TCP\TCP\obj\Debug\TCP.csproj.CoreCompileInputs.cache
+D:\Step\3 course\networkProgramming\lesson2\example\4. TCP\TCP\obj\Debug\TCP.exe
+D:\Step\3 course\networkProgramming\lesson2\example\4. TCP\TCP\obj\Debug\TCP.pdb

@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisc\\OneDrive\\Desktop\\EF-Core.-Asynchronous-API-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|c:\\users\\krisc\\onedrive\\desktop\\ef-core.-asynchronous-api-master\\codefirst\\academygroupcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\academygroupcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|c:\\users\\krisc\\onedrive\\desktop\\ef-core.-asynchronous-api-master\\codefirst\\academygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\academygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|c:\\users\\krisc\\onedrive\\desktop\\ef-core.-asynchronous-api-master\\codefirst\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|c:\\users\\krisc\\onedrive\\desktop\\ef-core.-asynchronous-api-master\\codefirst\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|c:\\users\\krisc\\onedrive\\desktop\\ef-core.-asynchronous-api-master\\codefirst\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|c:\\users\\krisc\\onedrive\\desktop\\ef-core.-asynchronous-api-master\\codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\krisc\\OneDrive\\Desktop\\EF-Core.-Asynchronous-API-master\\CodeFirst\\Form1.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Form1.cs",
+              "ToolTip": "C:\\Users\\krisc\\OneDrive\\Desktop\\EF-Core.-Asynchronous-API-master\\CodeFirst\\Form1.cs [Design]",
+              "RelativeToolTip": "CodeFirst\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:31:29.497Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AcademyGroupContext.cs",
+              "DocumentMoniker": "C:\\Users\\krisc\\OneDrive\\Desktop\\EF-Core.-Asynchronous-API-master\\CodeFirst\\AcademyGroupContext.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\AcademyGroupContext.cs",
+              "ToolTip": "C:\\Users\\krisc\\OneDrive\\Desktop\\EF-Core.-Asynchronous-API-master\\CodeFirst\\AcademyGroupContext.cs*",
+              "RelativeToolTip": "CodeFirst\\AcademyGroupContext.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:30:44.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\krisc\\OneDrive\\Desktop\\EF-Core.-Asynchronous-API-master\\CodeFirst\\Student.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Student.cs",
+              "ToolTip": "C:\\Users\\krisc\\OneDrive\\Desktop\\EF-Core.-Asynchronous-API-master\\CodeFirst\\Student.cs",
+              "RelativeToolTip": "CodeFirst\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:30:38.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\krisc\\OneDrive\\Desktop\\EF-Core.-Asynchronous-API-master\\CodeFirst\\Form1.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Form1.cs",
+              "ToolTip": "C:\\Users\\krisc\\OneDrive\\Desktop\\EF-Core.-Asynchronous-API-master\\CodeFirst\\Form1.cs",
+              "RelativeToolTip": "CodeFirst\\Form1.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:30:25.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AcademyGroup.cs",
+              "DocumentMoniker": "C:\\Users\\krisc\\OneDrive\\Desktop\\EF-Core.-Asynchronous-API-master\\CodeFirst\\AcademyGroup.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\AcademyGroup.cs",
+              "ToolTip": "C:\\Users\\krisc\\OneDrive\\Desktop\\EF-Core.-Asynchronous-API-master\\CodeFirst\\AcademyGroup.cs",
+              "RelativeToolTip": "CodeFirst\\AcademyGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:30:24.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisc\\OneDrive\\Desktop\\EF-Core.-Asynchronous-API-master\\CodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\krisc\\OneDrive\\Desktop\\EF-Core.-Asynchronous-API-master\\CodeFirst\\Program.cs",
+              "RelativeToolTip": "CodeFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:30:22.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
