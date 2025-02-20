@@ -1,0 +1,23 @@
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\AcademyGroupLibrary\bin\Debug\net8.0\AcademyGroupLibrary.deps.json
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\AcademyGroupLibrary\bin\Debug\net8.0\AcademyGroupLibrary.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\AcademyGroupLibrary\bin\Debug\net8.0\AcademyGroupLibrary.pdb
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.AssemblyInfoInputs.cache
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.AssemblyInfo.cs
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.csproj.CoreCompileInputs.cache
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\AcademyGroupLibrary\obj\Debug\net8.0\refint\AcademyGroupLibrary.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.pdb
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\AcademyGroupLibrary\obj\Debug\net8.0\ref\AcademyGroupLibrary.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\AcademyGroupLibrary\bin\Debug\net8.0\AcademyGroupLibrary.deps.json
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\AcademyGroupLibrary\bin\Debug\net8.0\AcademyGroupLibrary.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\AcademyGroupLibrary\bin\Debug\net8.0\AcademyGroupLibrary.pdb
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.AssemblyInfoInputs.cache
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.AssemblyInfo.cs
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.csproj.CoreCompileInputs.cache
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.sourcelink.json
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\AcademyGroupLibrary\obj\Debug\net8.0\refint\AcademyGroupLibrary.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.pdb
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\AcademyGroupLibrary\obj\Debug\net8.0\ref\AcademyGroupLibrary.dll

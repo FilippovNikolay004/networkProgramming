@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Step\\3 course\\networkProgramming\\lesson3\\homework\\CountryLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AED256-55FA-42B9-93E3-C1E89B4CD498}|ConsoleApp\\ConsoleApp.csproj|d:\\step\\3 course\\networkprogramming\\lesson3\\homework\\countrylibrary\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AED256-55FA-42B9-93E3-C1E89B4CD498}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9E5102-F3B3-4DE7-AC69-C7C2E460114F}|DatabaseLibrary\\DatabaseLibrary.csproj|d:\\step\\3 course\\networkprogramming\\lesson3\\homework\\countrylibrary\\databaselibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9E5102-F3B3-4DE7-AC69-C7C2E460114F}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80F9785-4FBE-4F47-A381-9DDEAAE080EB}|CountryLibrary\\CountryLibrary.csproj|d:\\step\\3 course\\networkprogramming\\lesson3\\homework\\countrylibrary\\countrylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80F9785-4FBE-4F47-A381-9DDEAAE080EB}|CountryLibrary\\CountryLibrary.csproj|solutionrelative:countrylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson3\\homework\\CountryLibrary\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson3\\homework\\CountryLibrary\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:52:12.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson3\\homework\\CountryLibrary\\DatabaseLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "DatabaseLibrary\\Class1.cs",
+              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson3\\homework\\CountryLibrary\\DatabaseLibrary\\Class1.cs",
+              "RelativeToolTip": "DatabaseLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:43:37.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson3\\homework\\CountryLibrary\\CountryLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "CountryLibrary\\Class1.cs",
+              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson3\\homework\\CountryLibrary\\CountryLibrary\\Class1.cs",
+              "RelativeToolTip": "CountryLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:38:49.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

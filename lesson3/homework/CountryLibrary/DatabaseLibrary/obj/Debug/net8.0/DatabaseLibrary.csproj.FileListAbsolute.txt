@@ -1,0 +1,16 @@
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\DatabaseLibrary\bin\Debug\net8.0\DatabaseLibrary.deps.json
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\DatabaseLibrary\bin\Debug\net8.0\DatabaseLibrary.dll
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\DatabaseLibrary\bin\Debug\net8.0\DatabaseLibrary.pdb
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\DatabaseLibrary\bin\Debug\net8.0\CountryLibrary.dll
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\DatabaseLibrary\bin\Debug\net8.0\CountryLibrary.pdb
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\DatabaseLibrary\obj\Debug\net8.0\DatabaseLibrary.csproj.AssemblyReference.cache
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\DatabaseLibrary\obj\Debug\net8.0\DatabaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\DatabaseLibrary\obj\Debug\net8.0\DatabaseLibrary.AssemblyInfoInputs.cache
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\DatabaseLibrary\obj\Debug\net8.0\DatabaseLibrary.AssemblyInfo.cs
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\DatabaseLibrary\obj\Debug\net8.0\DatabaseLibrary.csproj.CoreCompileInputs.cache
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\DatabaseLibrary\obj\Debug\net8.0\DatabaseLibrary.sourcelink.json
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\DatabaseLibrary\obj\Debug\net8.0\Database.4913601D.Up2Date
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\DatabaseLibrary\obj\Debug\net8.0\DatabaseLibrary.dll
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\DatabaseLibrary\obj\Debug\net8.0\refint\DatabaseLibrary.dll
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\DatabaseLibrary\obj\Debug\net8.0\DatabaseLibrary.pdb
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\DatabaseLibrary\obj\Debug\net8.0\ref\DatabaseLibrary.dll

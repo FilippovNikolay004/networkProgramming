@@ -1,0 +1,135 @@
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\appsettings.json
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\CodeFirst.exe
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\CodeFirst.deps.json
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\CodeFirst.runtimeconfig.json
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\CodeFirst.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\CodeFirst.pdb
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Azure.Core.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Azure.Identity.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Castle.Core.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Data.SqlClient.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Options.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.SqlServer.Server.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\System.Memory.Data.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\System.Runtime.Caching.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\AcademyGroupContextLibrary.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\AcademyGroupLibrary.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\AcademyGroupContextLibrary.pdb
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\bin\Debug\net8.0-windows7.0\AcademyGroupLibrary.pdb
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.csproj.AssemblyReference.cache
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.Form1.resources
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.csproj.GenerateResource.cache
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.AssemblyInfoInputs.cache
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.AssemblyInfo.cs
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.csproj.Up2Date
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\obj\Debug\net8.0-windows7.0\refint\CodeFirst.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.pdb
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.genruntimeconfig.cache
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Multimodule-architecture-master\CodeFirst\obj\Debug\net8.0-windows7.0\ref\CodeFirst.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\appsettings.json
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\CodeFirst.exe
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\CodeFirst.deps.json
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\CodeFirst.runtimeconfig.json
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\CodeFirst.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\CodeFirst.pdb
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Azure.Core.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Azure.Identity.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Castle.Core.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Data.SqlClient.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Options.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Primitives.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Logging.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\Microsoft.SqlServer.Server.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\System.Memory.Data.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\System.Runtime.Caching.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\AcademyGroupContextLibrary.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\AcademyGroupLibrary.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\AcademyGroupContextLibrary.pdb
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\bin\Debug\net8.0-windows7.0\AcademyGroupLibrary.pdb
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.csproj.AssemblyReference.cache
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.Form1.resources
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.csproj.GenerateResource.cache
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.AssemblyInfoInputs.cache
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.AssemblyInfo.cs
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.csproj.CoreCompileInputs.cache
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.sourcelink.json
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.csproj.Up2Date
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\obj\Debug\net8.0-windows7.0\refint\CodeFirst.dll
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.pdb
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\obj\Debug\net8.0-windows7.0\CodeFirst.genruntimeconfig.cache
+D:\Step\3 course\networkProgramming\lesson4\example\EF-Core.-Multimodule\CodeFirst\obj\Debug\net8.0-windows7.0\ref\CodeFirst.dll

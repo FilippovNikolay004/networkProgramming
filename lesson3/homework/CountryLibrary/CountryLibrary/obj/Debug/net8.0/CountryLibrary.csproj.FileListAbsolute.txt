@@ -1,0 +1,13 @@
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\CountryLibrary\bin\Debug\net8.0\CountryLibrary.deps.json
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\CountryLibrary\bin\Debug\net8.0\CountryLibrary.dll
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\CountryLibrary\bin\Debug\net8.0\CountryLibrary.pdb
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\CountryLibrary\obj\Debug\net8.0\CountryLibrary.csproj.AssemblyReference.cache
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\CountryLibrary\obj\Debug\net8.0\CountryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\CountryLibrary\obj\Debug\net8.0\CountryLibrary.AssemblyInfoInputs.cache
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\CountryLibrary\obj\Debug\net8.0\CountryLibrary.AssemblyInfo.cs
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\CountryLibrary\obj\Debug\net8.0\CountryLibrary.csproj.CoreCompileInputs.cache
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\CountryLibrary\obj\Debug\net8.0\CountryLibrary.sourcelink.json
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\CountryLibrary\obj\Debug\net8.0\CountryLibrary.dll
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\CountryLibrary\obj\Debug\net8.0\refint\CountryLibrary.dll
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\CountryLibrary\obj\Debug\net8.0\CountryLibrary.pdb
+D:\Step\3 course\networkProgramming\lesson3\homework\CountryLibrary\CountryLibrary\obj\Debug\net8.0\ref\CountryLibrary.dll
