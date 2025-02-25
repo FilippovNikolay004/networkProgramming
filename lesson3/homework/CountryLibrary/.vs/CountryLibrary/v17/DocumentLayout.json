@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Step\\3 course\\networkProgramming\\lesson3\\homework\\CountryLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5AED256-55FA-42B9-93E3-C1E89B4CD498}|ConsoleApp\\ConsoleApp.csproj|d:\\step\\3 course\\networkprogramming\\lesson3\\homework\\countrylibrary\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5AED256-55FA-42B9-93E3-C1E89B4CD498}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C80F9785-4FBE-4F47-A381-9DDEAAE080EB}|CountryLibrary\\CountryLibrary.csproj|d:\\step\\3 course\\networkprogramming\\lesson3\\homework\\countrylibrary\\countrylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80F9785-4FBE-4F47-A381-9DDEAAE080EB}|CountryLibrary\\CountryLibrary.csproj|solutionrelative:countrylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F9E5102-F3B3-4DE7-AC69-C7C2E460114F}|DatabaseLibrary\\DatabaseLibrary.csproj|d:\\step\\3 course\\networkprogramming\\lesson3\\homework\\countrylibrary\\databaselibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F9E5102-F3B3-4DE7-AC69-C7C2E460114F}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C80F9785-4FBE-4F47-A381-9DDEAAE080EB}|CountryLibrary\\CountryLibrary.csproj|d:\\step\\3 course\\networkprogramming\\lesson3\\homework\\countrylibrary\\countrylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80F9785-4FBE-4F47-A381-9DDEAAE080EB}|CountryLibrary\\CountryLibrary.csproj|solutionrelative:countrylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5AED256-55FA-42B9-93E3-C1E89B4CD498}|ConsoleApp\\ConsoleApp.csproj|d:\\step\\3 course\\networkprogramming\\lesson3\\homework\\countrylibrary\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AED256-55FA-42B9-93E3-C1E89B4CD498}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson3\\homework\\CountryLibrary\\ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
               "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson3\\homework\\CountryLibrary\\ConsoleApp\\Program.cs",
               "RelativeToolTip": "ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T11:52:12.537Z",
               "EditorCaption": ""
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson3\\homework\\CountryLibrary\\CountryLibrary\\Class1.cs",
               "RelativeDocumentMoniker": "CountryLibrary\\Class1.cs",

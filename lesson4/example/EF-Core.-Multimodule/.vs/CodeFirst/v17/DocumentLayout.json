@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\Step\\3 course\\networkProgramming\\lesson4\\example\\EF-Core.-Multimodule\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|d:\\step\\3 course\\networkprogramming\\lesson4\\example\\ef-core.-multimodule\\codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D366E047-575B-4D72-97B5-155760EDAABB}|AcademyGroupLibrary\\AcademyGroupLibrary.csproj|d:\\step\\3 course\\networkprogramming\\lesson4\\example\\ef-core.-multimodule\\academygrouplibrary\\academygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D366E047-575B-4D72-97B5-155760EDAABB}|AcademyGroupLibrary\\AcademyGroupLibrary.csproj|solutionrelative:academygrouplibrary\\academygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|d:\\step\\3 course\\networkprogramming\\lesson4\\example\\ef-core.-multimodule\\codefirst\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|d:\\step\\3 course\\networkprogramming\\lesson4\\example\\ef-core.-multimodule\\codefirst\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F9941F-D25E-4635-B270-C72D1D52FABF}|AcademyGroupContextLibrary\\AcademyGroupContextLibrary.csproj|d:\\step\\3 course\\networkprogramming\\lesson4\\example\\ef-core.-multimodule\\academygroupcontextlibrary\\academygroupcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F9941F-D25E-4635-B270-C72D1D52FABF}|AcademyGroupContextLibrary\\AcademyGroupContextLibrary.csproj|solutionrelative:academygroupcontextlibrary\\academygroupcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D366E047-575B-4D72-97B5-155760EDAABB}|AcademyGroupLibrary\\AcademyGroupLibrary.csproj|d:\\step\\3 course\\networkprogramming\\lesson4\\example\\ef-core.-multimodule\\academygrouplibrary\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D366E047-575B-4D72-97B5-155760EDAABB}|AcademyGroupLibrary\\AcademyGroupLibrary.csproj|solutionrelative:academygrouplibrary\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F9941F-D25E-4635-B270-C72D1D52FABF}|AcademyGroupContextLibrary\\AcademyGroupContextLibrary.csproj|d:\\step\\3 course\\networkprogramming\\lesson4\\example\\ef-core.-multimodule\\academygroupcontextlibrary\\academygroupcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F9941F-D25E-4635-B270-C72D1D52FABF}|AcademyGroupContextLibrary\\AcademyGroupContextLibrary.csproj|solutionrelative:academygroupcontextlibrary\\academygroupcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D366E047-575B-4D72-97B5-155760EDAABB}|AcademyGroupLibrary\\AcademyGroupLibrary.csproj|d:\\step\\3 course\\networkprogramming\\lesson4\\example\\ef-core.-multimodule\\academygrouplibrary\\academygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D366E047-575B-4D72-97B5-155760EDAABB}|AcademyGroupLibrary\\AcademyGroupLibrary.csproj|solutionrelative:academygrouplibrary\\academygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|d:\\step\\3 course\\networkprogramming\\lesson4\\example\\ef-core.-multimodule\\codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DEE7F96-B9EF-4718-8163-1E64366D6401}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,15 +47,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AcademyGroup.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson4\\example\\EF-Core.-Multimodule\\AcademyGroupLibrary\\AcademyGroup.cs",
-              "RelativeDocumentMoniker": "AcademyGroupLibrary\\AcademyGroup.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson4\\example\\EF-Core.-Multimodule\\AcademyGroupLibrary\\AcademyGroup.cs",
-              "RelativeToolTip": "AcademyGroupLibrary\\AcademyGroup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson4\\example\\EF-Core.-Multimodule\\CodeFirst\\Form1.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Form1.cs",
+              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson4\\example\\EF-Core.-Multimodule\\CodeFirst\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "CodeFirst\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:28:48.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T12:28:34.38Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson4\\example\\EF-Core.-Multimodule\\CodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirst\\appsettings.json",
+              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson4\\example\\EF-Core.-Multimodule\\CodeFirst\\appsettings.json",
+              "RelativeToolTip": "CodeFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T21:32:49.384Z"
             },
             {
               "$type": "Document",
@@ -61,48 +76,47 @@
               "RelativeDocumentMoniker": "AcademyGroupLibrary\\Student.cs",
               "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson4\\example\\EF-Core.-Multimodule\\AcademyGroupLibrary\\Student.cs",
               "RelativeToolTip": "AcademyGroupLibrary\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:29:20.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson4\\example\\EF-Core.-Multimodule\\CodeFirst\\appsettings.json",
-              "RelativeDocumentMoniker": "CodeFirst\\appsettings.json",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson4\\example\\EF-Core.-Multimodule\\CodeFirst\\appsettings.json",
-              "RelativeToolTip": "CodeFirst\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-20T10:04:04.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson4\\example\\EF-Core.-Multimodule\\CodeFirst\\Form1.cs",
-              "RelativeDocumentMoniker": "CodeFirst\\Form1.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson4\\example\\EF-Core.-Multimodule\\CodeFirst\\Form1.cs",
-              "RelativeToolTip": "CodeFirst\\Form1.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:42:29.989Z",
+              "WhenOpened": "2025-02-24T21:30:23.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "AcademyGroup.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson4\\example\\EF-Core.-Multimodule\\AcademyGroupLibrary\\AcademyGroup.cs",
+              "RelativeDocumentMoniker": "AcademyGroupLibrary\\AcademyGroup.cs",
+              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson4\\example\\EF-Core.-Multimodule\\AcademyGroupLibrary\\AcademyGroup.cs",
+              "RelativeToolTip": "AcademyGroupLibrary\\AcademyGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:28:12.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AcademyGroupContext.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson4\\example\\EF-Core.-Multimodule\\AcademyGroupContextLibrary\\AcademyGroupContext.cs",
               "RelativeDocumentMoniker": "AcademyGroupContextLibrary\\AcademyGroupContext.cs",
               "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson4\\example\\EF-Core.-Multimodule\\AcademyGroupContextLibrary\\AcademyGroupContext.cs",
               "RelativeToolTip": "AcademyGroupContextLibrary\\AcademyGroupContext.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAkwB8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:03:58.714Z",
+              "WhenOpened": "2025-02-24T19:28:25.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson4\\example\\EF-Core.-Multimodule\\CodeFirst\\Form1.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Form1.cs",
+              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson4\\example\\EF-Core.-Multimodule\\CodeFirst\\Form1.cs",
+              "RelativeToolTip": "CodeFirst\\Form1.cs",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAYwDcBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:27:56.26Z",
               "EditorCaption": ""
             }
           ]

@@ -8,15 +8,11 @@ using System.Windows.Forms;
 
 namespace CodeFirst
 {
-    public partial class Form1 : Form
-    {
-        public Form1()
-        {
-            InitializeComponent();         
-            try
-            {
-                using (var db = new AcademyGroupContext())
-                {
+    public partial class Form1 :Form {
+        public Form1() {
+            InitializeComponent();
+            try {
+                using (var db = new AcademyGroupContext()) {
                     //var query = from b in db.AcademyGroups
                     //            select b;
 
@@ -33,24 +29,19 @@ namespace CodeFirst
                     comboBoxStudent.DisplayMember = "LastName";
                 }
             }
-            catch (Exception ex)
-            {
+            catch (Exception ex) {
                 MessageBox.Show(ex.Message);
             }
         }
 
-        private void AddGroupClick(object sender, EventArgs e)
-        {
-            try
-            {
+        private void AddGroupClick(object sender, EventArgs e) {
+            try {
                 string groupname = textBoxGroup.Text.Trim();
-                if (groupname == "")
-                {
+                if (groupname == "") {
                     MessageBox.Show("Не задано название группы!");
                     return;
                 }
-                using (var db = new AcademyGroupContext())
-                {
+                using (var db = new AcademyGroupContext()) {
                     var academygroup = new AcademyGroup { Name = groupname };
                     db.AcademyGroups.Add(academygroup);
                     db.SaveChanges();
@@ -62,23 +53,19 @@ namespace CodeFirst
                     comboBoxGroup.DisplayMember = "Name";
 
                     MessageBox.Show("Группа добавлена!");
-                 
+
                 }
             }
-            catch (Exception ex)
-            {
+            catch (Exception ex) {
                 MessageBox.Show(ex.Message);
             }
         }
 
-        private void RemoveGroupClick(object sender, EventArgs e)
-        {
+        private void RemoveGroupClick(object sender, EventArgs e) {
             if (comboBoxGroup.Items.Count == 0)
                 return;
-            try
-            {
-                using (var db = new AcademyGroupContext())
-                {
+            try {
+                using (var db = new AcademyGroupContext()) {
                     List<AcademyGroup> list = comboBoxGroup.DataSource as List<AcademyGroup>;
                     string academygroup = list[comboBoxGroup.SelectedIndex].Name;
                     var query = from b in db.AcademyGroups
@@ -97,8 +84,7 @@ namespace CodeFirst
                     comboBoxStudent.DataSource = query2.ToList();
                     comboBoxStudent.DisplayMember = "LastName";
 
-                    if (comboBoxStudent.Items.Count == 0)
-                    {
+                    if (comboBoxStudent.Items.Count == 0) {
                         textBoxFirstName.Text = "";
                         textBoxLastName.Text = "";
                         textBoxAverage.Text = "";
@@ -109,24 +95,19 @@ namespace CodeFirst
                     MessageBox.Show("Группа удалена!");
                 }
             }
-            catch (Exception ex)
-            {
+            catch (Exception ex) {
                 MessageBox.Show(ex.Message);
             }
         }
 
-        private void EditGroupClick(object sender, EventArgs e)
-        {
-            try
-            {
+        private void EditGroupClick(object sender, EventArgs e) {
+            try {
                 string groupname = textBoxGroup.Text.Trim();
-                if (groupname == "")
-                {
+                if (groupname == "") {
                     MessageBox.Show("Не задано название группы!");
                     return;
                 }
-                using (var db = new AcademyGroupContext())
-                {
+                using (var db = new AcademyGroupContext()) {
                     List<AcademyGroup> list = comboBoxGroup.DataSource as List<AcademyGroup>;
                     string academygroup = list[comboBoxGroup.SelectedIndex].Name;
                     var query = (from b in db.AcademyGroups
@@ -144,25 +125,20 @@ namespace CodeFirst
                     MessageBox.Show("Группа переименована!");
                 }
             }
-            catch (Exception ex)
-            {
+            catch (Exception ex) {
                 MessageBox.Show(ex.Message);
             }
         }
 
-        private void AddStudentClick(object sender, EventArgs e)
-        {
-            try
-            {
+        private void AddStudentClick(object sender, EventArgs e) {
+            try {
                 string firstname = textBoxFirstName.Text.Trim();
                 string lastname = textBoxLastName.Text.Trim();
-                if (firstname == "" || lastname == "")
-                {
+                if (firstname == "" || lastname == "") {
                     MessageBox.Show("Не указано имя или фамилия студента!");
                     return;
                 }
-                if (comboBoxGroup.Items.Count == 0)
-                {
+                if (comboBoxGroup.Items.Count == 0) {
                     MessageBox.Show("Не создано ни одной группы!");
                     return;
                 }
@@ -174,16 +150,14 @@ namespace CodeFirst
                 if (textBoxAge.Text != "")
                     age = Convert.ToInt32(textBoxAge.Text);
 
-                using (var db = new AcademyGroupContext())
-                {
+                using (var db = new AcademyGroupContext()) {
                     List<AcademyGroup> list = comboBoxGroup.DataSource as List<AcademyGroup>;
                     string academygroup = list[comboBoxGroup.SelectedIndex].Name;
                     var query = (from b in db.AcademyGroups
                                  where b.Name == academygroup
                                  select b).Single();
 
-                    var student = new Student
-                    {
+                    var student = new Student {
                         FirstName = firstname,
                         LastName = lastname,
                         Age = age,
@@ -201,20 +175,16 @@ namespace CodeFirst
                     MessageBox.Show("Студент добавлен!");
                 }
             }
-            catch (Exception ex)
-            {
+            catch (Exception ex) {
                 MessageBox.Show(ex.Message);
             }
         }
 
-        private void RemoveStudentClick(object sender, EventArgs e)
-        {
+        private void RemoveStudentClick(object sender, EventArgs e) {
             if (comboBoxStudent.Items.Count == 0)
                 return;
-            try
-            {
-                using (var db = new AcademyGroupContext())
-                {
+            try {
+                using (var db = new AcademyGroupContext()) {
                     List<Student> list = comboBoxStudent.DataSource as List<Student>;
                     string student = list[comboBoxStudent.SelectedIndex].LastName;
                     var query = from b in db.Students
@@ -228,8 +198,7 @@ namespace CodeFirst
                     comboBoxStudent.DataSource = query2.ToList();
                     comboBoxStudent.DisplayMember = "LastName";
 
-                    if (comboBoxStudent.Items.Count == 0)
-                    {
+                    if (comboBoxStudent.Items.Count == 0) {
                         textBoxFirstName.Text = "";
                         textBoxLastName.Text = "";
                         textBoxAverage.Text = "";
@@ -240,20 +209,16 @@ namespace CodeFirst
                     MessageBox.Show("Студент удалён!");
                 }
             }
-            catch (Exception ex)
-            {
+            catch (Exception ex) {
                 MessageBox.Show(ex.Message);
             }
         }
 
-        private void EditStudentClick(object sender, EventArgs e)
-        {
-            try
-            {
+        private void EditStudentClick(object sender, EventArgs e) {
+            try {
                 string firstname = textBoxFirstName.Text.Trim();
                 string lastname = textBoxLastName.Text.Trim();
-                if (firstname == "" || lastname == "")
-                {
+                if (firstname == "" || lastname == "") {
                     MessageBox.Show("Не указано имя или фамилия студента!");
                     return;
                 }
@@ -266,8 +231,7 @@ namespace CodeFirst
                 if (textBoxAge.Text != "")
                     age = Convert.ToInt32(textBoxAge.Text);
 
-                using (var db = new AcademyGroupContext())
-                {
+                using (var db = new AcademyGroupContext()) {
                     List<AcademyGroup> list = comboBoxGroup.DataSource as List<AcademyGroup>;
                     string academygroup = list[comboBoxGroup.SelectedIndex].Name;
                     var query = (from b in db.AcademyGroups
@@ -297,20 +261,16 @@ namespace CodeFirst
                     MessageBox.Show("Данные о студенте изменены!");
                 }
             }
-            catch (Exception ex)
-            {
+            catch (Exception ex) {
                 MessageBox.Show(ex.Message);
             }
         }
 
-        private void comboBoxStudent_SelectedIndexChanged(object sender, EventArgs e)
-        {
+        private void comboBoxStudent_SelectedIndexChanged(object sender, EventArgs e) {
             if (comboBoxStudent.Items.Count == 0)
                 return;
-            try
-            {
-                using (var db = new AcademyGroupContext())
-                {
+            try {
+                using (var db = new AcademyGroupContext()) {
                     List<Student> studentlist = comboBoxStudent.DataSource as List<Student>;
                     if (studentlist == null)
                         return;
@@ -326,20 +286,16 @@ namespace CodeFirst
                     textBoxGr.Text = query.AcademyGroup.Name;
                 }
             }
-            catch (Exception ex)
-            {
+            catch (Exception ex) {
                 MessageBox.Show(ex.Message);
             }
         }
 
-        private void comboBoxGroup_SelectedIndexChanged(object sender, EventArgs e)
-        {
+        private void comboBoxGroup_SelectedIndexChanged(object sender, EventArgs e) {
             if (comboBoxGroup.Items.Count == 0)
                 return;
-            try
-            {
-                using (var db = new AcademyGroupContext())
-                {
+            try {
+                using (var db = new AcademyGroupContext()) {
                     List<AcademyGroup> list = comboBoxGroup.DataSource as List<AcademyGroup>;
                     string academygroup = list[comboBoxGroup.SelectedIndex].Name;
                     var query = (from b in db.AcademyGroups
@@ -350,11 +306,13 @@ namespace CodeFirst
 
                 }
             }
-            catch (Exception ex)
-            {
+            catch (Exception ex) {
                 MessageBox.Show(ex.Message);
             }
         }
 
+        private void textBoxGroup_TextChanged(object sender, EventArgs e) {
+
+        }
     }
 }

@@ -27,278 +27,278 @@ namespace CodeFirst
         ///  Required method for Designer support - do not modify
         ///  the contents of this method with the code editor.
         /// </summary>
-        private void InitializeComponent()
-        {
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.textBoxGr = new System.Windows.Forms.TextBox();
-            this.label5 = new System.Windows.Forms.Label();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.comboBoxStudent = new System.Windows.Forms.ComboBox();
-            this.textBoxAverage = new System.Windows.Forms.TextBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.textBoxAge = new System.Windows.Forms.TextBox();
-            this.label4 = new System.Windows.Forms.Label();
-            this.textBoxLastName = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.textBoxFirstName = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.comboBoxGroup = new System.Windows.Forms.ComboBox();
-            this.textBoxGroup = new System.Windows.Forms.TextBox();
-            this.groupBox2.SuspendLayout();
-            this.groupBox1.SuspendLayout();
-            this.SuspendLayout();
+        private void InitializeComponent() {
+            groupBox2 = new System.Windows.Forms.GroupBox();
+            textBoxGr = new System.Windows.Forms.TextBox();
+            label5 = new System.Windows.Forms.Label();
+            button6 = new System.Windows.Forms.Button();
+            button5 = new System.Windows.Forms.Button();
+            button4 = new System.Windows.Forms.Button();
+            comboBoxStudent = new System.Windows.Forms.ComboBox();
+            textBoxAverage = new System.Windows.Forms.TextBox();
+            label3 = new System.Windows.Forms.Label();
+            textBoxAge = new System.Windows.Forms.TextBox();
+            label4 = new System.Windows.Forms.Label();
+            textBoxLastName = new System.Windows.Forms.TextBox();
+            label2 = new System.Windows.Forms.Label();
+            textBoxFirstName = new System.Windows.Forms.TextBox();
+            label1 = new System.Windows.Forms.Label();
+            groupBox1 = new System.Windows.Forms.GroupBox();
+            button3 = new System.Windows.Forms.Button();
+            button2 = new System.Windows.Forms.Button();
+            button1 = new System.Windows.Forms.Button();
+            comboBoxGroup = new System.Windows.Forms.ComboBox();
+            textBoxGroup = new System.Windows.Forms.TextBox();
+            groupBox2.SuspendLayout();
+            groupBox1.SuspendLayout();
+            SuspendLayout();
             // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.textBoxGr);
-            this.groupBox2.Controls.Add(this.label5);
-            this.groupBox2.Controls.Add(this.button6);
-            this.groupBox2.Controls.Add(this.button5);
-            this.groupBox2.Controls.Add(this.button4);
-            this.groupBox2.Controls.Add(this.comboBoxStudent);
-            this.groupBox2.Controls.Add(this.textBoxAverage);
-            this.groupBox2.Controls.Add(this.label3);
-            this.groupBox2.Controls.Add(this.textBoxAge);
-            this.groupBox2.Controls.Add(this.label4);
-            this.groupBox2.Controls.Add(this.textBoxLastName);
-            this.groupBox2.Controls.Add(this.label2);
-            this.groupBox2.Controls.Add(this.textBoxFirstName);
-            this.groupBox2.Controls.Add(this.label1);
-            this.groupBox2.Location = new System.Drawing.Point(226, 14);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.groupBox2.Size = new System.Drawing.Size(405, 175);
-            this.groupBox2.TabIndex = 3;
-            this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Студенты";
+            groupBox2.Controls.Add(textBoxGr);
+            groupBox2.Controls.Add(label5);
+            groupBox2.Controls.Add(button6);
+            groupBox2.Controls.Add(button5);
+            groupBox2.Controls.Add(button4);
+            groupBox2.Controls.Add(comboBoxStudent);
+            groupBox2.Controls.Add(textBoxAverage);
+            groupBox2.Controls.Add(label3);
+            groupBox2.Controls.Add(textBoxAge);
+            groupBox2.Controls.Add(label4);
+            groupBox2.Controls.Add(textBoxLastName);
+            groupBox2.Controls.Add(label2);
+            groupBox2.Controls.Add(textBoxFirstName);
+            groupBox2.Controls.Add(label1);
+            groupBox2.Location = new System.Drawing.Point(226, 14);
+            groupBox2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            groupBox2.Name = "groupBox2";
+            groupBox2.Padding = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            groupBox2.Size = new System.Drawing.Size(405, 175);
+            groupBox2.TabIndex = 3;
+            groupBox2.TabStop = false;
+            groupBox2.Text = "Студенты";
             // 
             // textBoxGr
             // 
-            this.textBoxGr.Location = new System.Drawing.Point(103, 152);
-            this.textBoxGr.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.textBoxGr.Name = "textBoxGr";
-            this.textBoxGr.ReadOnly = true;
-            this.textBoxGr.Size = new System.Drawing.Size(142, 23);
-            this.textBoxGr.TabIndex = 13;
+            textBoxGr.Location = new System.Drawing.Point(103, 152);
+            textBoxGr.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            textBoxGr.Name = "textBoxGr";
+            textBoxGr.ReadOnly = true;
+            textBoxGr.Size = new System.Drawing.Size(142, 23);
+            textBoxGr.TabIndex = 13;
             // 
             // label5
             // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(9, 157);
-            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(49, 15);
-            this.label5.TabIndex = 12;
-            this.label5.Text = "Группа:";
+            label5.AutoSize = true;
+            label5.Location = new System.Drawing.Point(9, 157);
+            label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            label5.Name = "label5";
+            label5.Size = new System.Drawing.Size(49, 15);
+            label5.TabIndex = 12;
+            label5.Text = "Группа:";
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(252, 118);
-            this.button6.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(141, 27);
-            this.button6.TabIndex = 11;
-            this.button6.Text = "Изменить";
-            this.button6.UseVisualStyleBackColor = true;
-            this.button6.Click += new System.EventHandler(this.EditStudentClick);
+            button6.Location = new System.Drawing.Point(252, 118);
+            button6.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            button6.Name = "button6";
+            button6.Size = new System.Drawing.Size(141, 27);
+            button6.TabIndex = 11;
+            button6.Text = "Изменить";
+            button6.UseVisualStyleBackColor = true;
+            button6.Click += EditStudentClick;
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(251, 85);
-            this.button5.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(141, 27);
-            this.button5.TabIndex = 10;
-            this.button5.Text = "Удалить";
-            this.button5.UseVisualStyleBackColor = true;
-            this.button5.Click += new System.EventHandler(this.RemoveStudentClick);
+            button5.Location = new System.Drawing.Point(251, 85);
+            button5.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            button5.Name = "button5";
+            button5.Size = new System.Drawing.Size(141, 27);
+            button5.TabIndex = 10;
+            button5.Text = "Удалить";
+            button5.UseVisualStyleBackColor = true;
+            button5.Click += RemoveStudentClick;
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(251, 53);
-            this.button4.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(141, 27);
-            this.button4.TabIndex = 9;
-            this.button4.Text = "Добавить";
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.AddStudentClick);
+            button4.Location = new System.Drawing.Point(251, 53);
+            button4.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            button4.Name = "button4";
+            button4.Size = new System.Drawing.Size(141, 27);
+            button4.TabIndex = 9;
+            button4.Text = "Добавить";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += AddStudentClick;
             // 
             // comboBoxStudent
             // 
-            this.comboBoxStudent.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBoxStudent.FormattingEnabled = true;
-            this.comboBoxStudent.Location = new System.Drawing.Point(251, 21);
-            this.comboBoxStudent.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.comboBoxStudent.Name = "comboBoxStudent";
-            this.comboBoxStudent.Size = new System.Drawing.Size(140, 23);
-            this.comboBoxStudent.TabIndex = 8;
-            this.comboBoxStudent.SelectedIndexChanged += new System.EventHandler(this.comboBoxStudent_SelectedIndexChanged);
+            comboBoxStudent.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            comboBoxStudent.FormattingEnabled = true;
+            comboBoxStudent.Location = new System.Drawing.Point(251, 21);
+            comboBoxStudent.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            comboBoxStudent.Name = "comboBoxStudent";
+            comboBoxStudent.Size = new System.Drawing.Size(140, 23);
+            comboBoxStudent.TabIndex = 8;
+            comboBoxStudent.SelectedIndexChanged += comboBoxStudent_SelectedIndexChanged;
             // 
             // textBoxAverage
             // 
-            this.textBoxAverage.Location = new System.Drawing.Point(103, 120);
-            this.textBoxAverage.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.textBoxAverage.Name = "textBoxAverage";
-            this.textBoxAverage.Size = new System.Drawing.Size(142, 23);
-            this.textBoxAverage.TabIndex = 7;
+            textBoxAverage.Location = new System.Drawing.Point(103, 120);
+            textBoxAverage.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            textBoxAverage.Name = "textBoxAverage";
+            textBoxAverage.Size = new System.Drawing.Size(142, 23);
+            textBoxAverage.TabIndex = 7;
             // 
             // label3
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(9, 125);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(88, 15);
-            this.label3.TabIndex = 6;
-            this.label3.Text = "Средний балл:";
+            label3.AutoSize = true;
+            label3.Location = new System.Drawing.Point(9, 125);
+            label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            label3.Name = "label3";
+            label3.Size = new System.Drawing.Size(88, 15);
+            label3.TabIndex = 6;
+            label3.Text = "Средний балл:";
             // 
             // textBoxAge
             // 
-            this.textBoxAge.Location = new System.Drawing.Point(103, 87);
-            this.textBoxAge.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.textBoxAge.Name = "textBoxAge";
-            this.textBoxAge.Size = new System.Drawing.Size(142, 23);
-            this.textBoxAge.TabIndex = 5;
+            textBoxAge.Location = new System.Drawing.Point(103, 87);
+            textBoxAge.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            textBoxAge.Name = "textBoxAge";
+            textBoxAge.Size = new System.Drawing.Size(142, 23);
+            textBoxAge.TabIndex = 5;
             // 
             // label4
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(9, 89);
-            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(53, 15);
-            this.label4.TabIndex = 4;
-            this.label4.Text = "Возраст:";
+            label4.AutoSize = true;
+            label4.Location = new System.Drawing.Point(9, 89);
+            label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            label4.Name = "label4";
+            label4.Size = new System.Drawing.Size(53, 15);
+            label4.TabIndex = 4;
+            label4.Text = "Возраст:";
             // 
             // textBoxLastName
             // 
-            this.textBoxLastName.Location = new System.Drawing.Point(102, 54);
-            this.textBoxLastName.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.textBoxLastName.Name = "textBoxLastName";
-            this.textBoxLastName.Size = new System.Drawing.Size(142, 23);
-            this.textBoxLastName.TabIndex = 3;
+            textBoxLastName.Location = new System.Drawing.Point(102, 54);
+            textBoxLastName.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            textBoxLastName.Name = "textBoxLastName";
+            textBoxLastName.Size = new System.Drawing.Size(142, 23);
+            textBoxLastName.TabIndex = 3;
             // 
             // label2
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(8, 57);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(61, 15);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Фамилия:";
+            label2.AutoSize = true;
+            label2.Location = new System.Drawing.Point(8, 57);
+            label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            label2.Name = "label2";
+            label2.Size = new System.Drawing.Size(61, 15);
+            label2.TabIndex = 2;
+            label2.Text = "Фамилия:";
             // 
             // textBoxFirstName
             // 
-            this.textBoxFirstName.Location = new System.Drawing.Point(102, 22);
-            this.textBoxFirstName.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.textBoxFirstName.Name = "textBoxFirstName";
-            this.textBoxFirstName.Size = new System.Drawing.Size(142, 23);
-            this.textBoxFirstName.TabIndex = 1;
+            textBoxFirstName.Location = new System.Drawing.Point(102, 22);
+            textBoxFirstName.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            textBoxFirstName.Name = "textBoxFirstName";
+            textBoxFirstName.Size = new System.Drawing.Size(142, 23);
+            textBoxFirstName.TabIndex = 1;
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(8, 23);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(34, 15);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Имя:";
+            label1.AutoSize = true;
+            label1.Location = new System.Drawing.Point(8, 23);
+            label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            label1.Name = "label1";
+            label1.Size = new System.Drawing.Size(34, 15);
+            label1.TabIndex = 0;
+            label1.Text = "Имя:";
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.button3);
-            this.groupBox1.Controls.Add(this.button2);
-            this.groupBox1.Controls.Add(this.button1);
-            this.groupBox1.Controls.Add(this.comboBoxGroup);
-            this.groupBox1.Controls.Add(this.textBoxGroup);
-            this.groupBox1.Location = new System.Drawing.Point(14, 14);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.groupBox1.Size = new System.Drawing.Size(186, 175);
-            this.groupBox1.TabIndex = 2;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Группы";
+            groupBox1.Controls.Add(button3);
+            groupBox1.Controls.Add(button2);
+            groupBox1.Controls.Add(button1);
+            groupBox1.Controls.Add(comboBoxGroup);
+            groupBox1.Controls.Add(textBoxGroup);
+            groupBox1.Location = new System.Drawing.Point(14, 14);
+            groupBox1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Padding = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            groupBox1.Size = new System.Drawing.Size(186, 175);
+            groupBox1.TabIndex = 2;
+            groupBox1.TabStop = false;
+            groupBox1.Text = "Группы";
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(8, 143);
-            this.button3.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(141, 27);
-            this.button3.TabIndex = 4;
-            this.button3.Text = "Изменить";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.EditGroupClick);
+            button3.Location = new System.Drawing.Point(8, 143);
+            button3.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            button3.Name = "button3";
+            button3.Size = new System.Drawing.Size(141, 27);
+            button3.TabIndex = 4;
+            button3.Text = "Изменить";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += EditGroupClick;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(8, 112);
-            this.button2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(141, 27);
-            this.button2.TabIndex = 3;
-            this.button2.Text = "Удалить";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.RemoveGroupClick);
+            button2.Location = new System.Drawing.Point(8, 112);
+            button2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            button2.Name = "button2";
+            button2.Size = new System.Drawing.Size(141, 27);
+            button2.TabIndex = 3;
+            button2.Text = "Удалить";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += RemoveGroupClick;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(7, 81);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(141, 27);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "Добавить";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.AddGroupClick);
+            button1.Location = new System.Drawing.Point(7, 81);
+            button1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            button1.Name = "button1";
+            button1.Size = new System.Drawing.Size(141, 27);
+            button1.TabIndex = 1;
+            button1.Text = "Добавить";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += AddGroupClick;
             // 
             // comboBoxGroup
             // 
-            this.comboBoxGroup.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBoxGroup.FormattingEnabled = true;
-            this.comboBoxGroup.Location = new System.Drawing.Point(8, 51);
-            this.comboBoxGroup.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.comboBoxGroup.Name = "comboBoxGroup";
-            this.comboBoxGroup.Size = new System.Drawing.Size(140, 23);
-            this.comboBoxGroup.TabIndex = 2;
-            this.comboBoxGroup.SelectedIndexChanged += new System.EventHandler(this.comboBoxGroup_SelectedIndexChanged);
+            comboBoxGroup.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            comboBoxGroup.FormattingEnabled = true;
+            comboBoxGroup.Location = new System.Drawing.Point(8, 51);
+            comboBoxGroup.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            comboBoxGroup.Name = "comboBoxGroup";
+            comboBoxGroup.Size = new System.Drawing.Size(140, 23);
+            comboBoxGroup.TabIndex = 2;
+            comboBoxGroup.SelectedIndexChanged += comboBoxGroup_SelectedIndexChanged;
             // 
             // textBoxGroup
             // 
-            this.textBoxGroup.Location = new System.Drawing.Point(7, 22);
-            this.textBoxGroup.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.textBoxGroup.Name = "textBoxGroup";
-            this.textBoxGroup.Size = new System.Drawing.Size(142, 23);
-            this.textBoxGroup.TabIndex = 0;
+            textBoxGroup.Location = new System.Drawing.Point(7, 22);
+            textBoxGroup.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            textBoxGroup.Name = "textBoxGroup";
+            textBoxGroup.Size = new System.Drawing.Size(142, 23);
+            textBoxGroup.TabIndex = 0;
+            textBoxGroup.TextChanged += textBoxGroup_TextChanged;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(651, 203);
-            this.Controls.Add(this.groupBox2);
-            this.Controls.Add(this.groupBox1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.MaximizeBox = false;
-            this.Name = "Form1";
-            this.Text = "Академическая группа";
-            this.groupBox2.ResumeLayout(false);
-            this.groupBox2.PerformLayout();
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
-            this.ResumeLayout(false);
+            AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            ClientSize = new System.Drawing.Size(651, 203);
+            Controls.Add(groupBox2);
+            Controls.Add(groupBox1);
+            FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            MaximizeBox = false;
+            Name = "Form1";
+            Text = "Академическая группа";
+            groupBox2.ResumeLayout(false);
+            groupBox2.PerformLayout();
+            groupBox1.ResumeLayout(false);
+            groupBox1.PerformLayout();
+            ResumeLayout(false);
 
         }
 

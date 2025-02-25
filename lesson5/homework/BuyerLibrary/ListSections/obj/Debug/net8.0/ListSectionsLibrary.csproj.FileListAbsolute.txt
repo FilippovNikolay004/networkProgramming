@@ -1,0 +1,13 @@
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ListSections\bin\Debug\net8.0\ListSectionsLibrary.deps.json
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ListSections\bin\Debug\net8.0\ListSectionsLibrary.dll
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ListSections\bin\Debug\net8.0\ListSectionsLibrary.pdb
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ListSections\obj\Debug\net8.0\ListSectionsLibrary.csproj.AssemblyReference.cache
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ListSections\obj\Debug\net8.0\ListSectionsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ListSections\obj\Debug\net8.0\ListSectionsLibrary.AssemblyInfoInputs.cache
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ListSections\obj\Debug\net8.0\ListSectionsLibrary.AssemblyInfo.cs
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ListSections\obj\Debug\net8.0\ListSectionsLibrary.csproj.CoreCompileInputs.cache
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ListSections\obj\Debug\net8.0\ListSectionsLibrary.sourcelink.json
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ListSections\obj\Debug\net8.0\ListSectionsLibrary.dll
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ListSections\obj\Debug\net8.0\refint\ListSectionsLibrary.dll
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ListSections\obj\Debug\net8.0\ListSectionsLibrary.pdb
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ListSections\obj\Debug\net8.0\ref\ListSectionsLibrary.dll

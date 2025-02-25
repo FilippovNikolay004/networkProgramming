@@ -1,0 +1,13 @@
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\CountryStocksLibrary\bin\Debug\net8.0\CountryStocksLibrary.deps.json
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\CountryStocksLibrary\bin\Debug\net8.0\CountryStocksLibrary.dll
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\CountryStocksLibrary\bin\Debug\net8.0\CountryStocksLibrary.pdb
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\CountryStocksLibrary\obj\Debug\net8.0\CountryStocksLibrary.csproj.AssemblyReference.cache
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\CountryStocksLibrary\obj\Debug\net8.0\CountryStocksLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\CountryStocksLibrary\obj\Debug\net8.0\CountryStocksLibrary.AssemblyInfoInputs.cache
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\CountryStocksLibrary\obj\Debug\net8.0\CountryStocksLibrary.AssemblyInfo.cs
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\CountryStocksLibrary\obj\Debug\net8.0\CountryStocksLibrary.csproj.CoreCompileInputs.cache
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\CountryStocksLibrary\obj\Debug\net8.0\CountryStocksLibrary.sourcelink.json
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\CountryStocksLibrary\obj\Debug\net8.0\CountryStocksLibrary.dll
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\CountryStocksLibrary\obj\Debug\net8.0\refint\CountryStocksLibrary.dll
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\CountryStocksLibrary\obj\Debug\net8.0\CountryStocksLibrary.pdb
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\CountryStocksLibrary\obj\Debug\net8.0\ref\CountryStocksLibrary.dll

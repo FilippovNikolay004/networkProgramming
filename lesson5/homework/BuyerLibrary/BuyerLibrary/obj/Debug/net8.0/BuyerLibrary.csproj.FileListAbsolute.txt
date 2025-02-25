@@ -1,0 +1,16 @@
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\BuyerLibrary\bin\Debug\net8.0\BuyerLibrary.deps.json
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\BuyerLibrary\bin\Debug\net8.0\BuyerLibrary.dll
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\BuyerLibrary\bin\Debug\net8.0\BuyerLibrary.pdb
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\BuyerLibrary\bin\Debug\net8.0\ListSectionsLibrary.dll
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\BuyerLibrary\bin\Debug\net8.0\ListSectionsLibrary.pdb
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\BuyerLibrary\obj\Debug\net8.0\BuyerLibrary.csproj.AssemblyReference.cache
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\BuyerLibrary\obj\Debug\net8.0\BuyerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\BuyerLibrary\obj\Debug\net8.0\BuyerLibrary.AssemblyInfoInputs.cache
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\BuyerLibrary\obj\Debug\net8.0\BuyerLibrary.AssemblyInfo.cs
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\BuyerLibrary\obj\Debug\net8.0\BuyerLibrary.csproj.CoreCompileInputs.cache
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\BuyerLibrary\obj\Debug\net8.0\BuyerLibrary.sourcelink.json
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\BuyerLibrary\obj\Debug\net8.0\BuyerLib.5A7C5CDC.Up2Date
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\BuyerLibrary\obj\Debug\net8.0\BuyerLibrary.dll
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\BuyerLibrary\obj\Debug\net8.0\refint\BuyerLibrary.dll
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\BuyerLibrary\obj\Debug\net8.0\BuyerLibrary.pdb
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\BuyerLibrary\obj\Debug\net8.0\ref\BuyerLibrary.dll
