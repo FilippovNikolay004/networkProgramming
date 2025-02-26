@@ -5,22 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4EA47ED7-2EC8-4C9F-9BC4-8EEFE9B9085F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\step\\3 course\\networkprogramming\\lesson5\\homework\\buyerlibrary\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EA47ED7-2EC8-4C9F-9BC4-8EEFE9B9085F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B235010C-8EA5-4218-9028-17F90C12634A}|BuyerLibrary\\BuyerLibrary.csproj|d:\\step\\3 course\\networkprogramming\\lesson5\\homework\\buyerlibrary\\buyerlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B235010C-8EA5-4218-9028-17F90C12634A}|BuyerLibrary\\BuyerLibrary.csproj|solutionrelative:buyerlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9EC79A6-4982-4476-9DFD-3A611BBCD23A}|DiscountedItemsLibrary\\DiscountedItemsLibrary.csproj|d:\\step\\3 course\\networkprogramming\\lesson5\\homework\\buyerlibrary\\discounteditemslibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9EC79A6-4982-4476-9DFD-3A611BBCD23A}|DiscountedItemsLibrary\\DiscountedItemsLibrary.csproj|solutionrelative:discounteditemslibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D47F8F11-831A-47AE-910F-315A2E049488}|ListSections\\ListSectionsLibrary.csproj|d:\\step\\3 course\\networkprogramming\\lesson5\\homework\\buyerlibrary\\listsections\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D47F8F11-831A-47AE-910F-315A2E049488}|ListSections\\ListSectionsLibrary.csproj|solutionrelative:listsections\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0102DDA-3EAC-404B-B55E-493D8D475EC3}|CountryStocksLibrary\\CountryStocksLibrary.csproj|d:\\step\\3 course\\networkprogramming\\lesson5\\homework\\buyerlibrary\\countrystockslibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0102DDA-3EAC-404B-B55E-493D8D475EC3}|CountryStocksLibrary\\CountryStocksLibrary.csproj|solutionrelative:countrystockslibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,65 +26,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ListSections\\Class1.cs",
-              "RelativeDocumentMoniker": "ListSections\\Class1.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ListSections\\Class1.cs",
-              "RelativeToolTip": "ListSections\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T21:22:29.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\DiscountedItemsLibrary\\Class1.cs",
-              "RelativeDocumentMoniker": "DiscountedItemsLibrary\\Class1.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\DiscountedItemsLibrary\\Class1.cs",
-              "RelativeToolTip": "DiscountedItemsLibrary\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T21:22:08.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\CountryStocksLibrary\\Class1.cs",
-              "RelativeDocumentMoniker": "CountryStocksLibrary\\Class1.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\CountryStocksLibrary\\Class1.cs",
-              "RelativeToolTip": "CountryStocksLibrary\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T21:22:06.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\BuyerLibrary\\Class1.cs",
-              "RelativeDocumentMoniker": "BuyerLibrary\\Class1.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\BuyerLibrary\\Class1.cs",
-              "RelativeToolTip": "BuyerLibrary\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T21:21:45.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAJEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T19:25:51.899Z",
               "EditorCaption": ""

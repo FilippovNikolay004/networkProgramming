@@ -11,6 +11,9 @@ namespace BuyerLibrary {
         public string Country { get; set; }
         public string City { get; set; }
 
-        public virtual ICollection<ListSections> IdListSections { get; set; }
+
+        // Внешний ключ
+        public int IdListSections { get; set; }
+        public ListSections ListSections { get; set; }
     }
 }

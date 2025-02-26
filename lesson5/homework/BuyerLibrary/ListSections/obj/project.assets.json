@@ -1193,6 +1193,36 @@
             "rid": "win"
           }
         }
+      },
+      "BuyerLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Proxies": "9.0.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.2",
+          "Microsoft.Extensions.Configuration.Json": "9.0.2"
+        },
+        "compile": {
+          "bin/placeholder/BuyerLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuyerLibrary.dll": {}
+        }
+      },
+      "DiscountedItemsLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Proxies": "9.0.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.2",
+          "Microsoft.Extensions.Configuration.Json": "9.0.2"
+        },
+        "compile": {
+          "bin/placeholder/DiscountedItemsLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DiscountedItemsLibrary.dll": {}
+        }
       }
     }
   },
@@ -3223,10 +3253,22 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "BuyerLibrary/1.0.0": {
+      "type": "project",
+      "path": "../BuyerLibrary/BuyerLibrary.csproj",
+      "msbuildProject": "../BuyerLibrary/BuyerLibrary.csproj"
+    },
+    "DiscountedItemsLibrary/1.0.0": {
+      "type": "project",
+      "path": "../DiscountedItemsLibrary/DiscountedItemsLibrary.csproj",
+      "msbuildProject": "../DiscountedItemsLibrary/DiscountedItemsLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "BuyerLibrary >= 1.0.0",
+      "DiscountedItemsLibrary >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Proxies >= 9.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.2",
       "Microsoft.Extensions.Configuration.Json >= 9.0.2"
@@ -3263,7 +3305,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\BuyerLibrary\\BuyerLibrary.csproj": {
+              "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\BuyerLibrary\\BuyerLibrary.csproj"
+            },
+            "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\DiscountedItemsLibrary\\DiscountedItemsLibrary.csproj": {
+              "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\DiscountedItemsLibrary\\DiscountedItemsLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

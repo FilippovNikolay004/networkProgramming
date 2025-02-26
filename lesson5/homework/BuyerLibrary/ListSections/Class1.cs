@@ -1,5 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using BuyerLibrary;
+using DiscountedItemsLibrary;
 
 namespace ListSectionsLibrary {
     public class ListSections {
@@ -9,5 +9,10 @@ namespace ListSectionsLibrary {
         public string KitchenAppliances { get; set; }
         public string Tablets { get; set; }
         public string TVs { get; set; }
+
+
+        // Навигационные свойства
+        public ICollection<Buyer> Buyers { get; set; } = new List<Buyer>();
+        public ICollection<DiscountedItems> DiscountedItems { get; set; } = new List<DiscountedItems>();
     }
 }

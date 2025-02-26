@@ -68,16 +68,8 @@ D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\bi
 D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\bin\Debug\net8.0\BuyerLibrary.dll
-D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\bin\Debug\net8.0\CountryStocksLibrary.dll
-D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\bin\Debug\net8.0\DiscountedItemsLibrary.dll
-D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\bin\Debug\net8.0\ListSectionsLibrary.dll
 D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\bin\Debug\net8.0\PromoMailingDBLibrary.dll
 D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\bin\Debug\net8.0\PromoMailingDBLibrary.pdb
-D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\bin\Debug\net8.0\BuyerLibrary.pdb
-D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\bin\Debug\net8.0\CountryStocksLibrary.pdb
-D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\bin\Debug\net8.0\DiscountedItemsLibrary.pdb
-D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\bin\Debug\net8.0\ListSectionsLibrary.pdb
 D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
 D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
 D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
@@ -90,3 +82,5 @@ D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\ob
 D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\bin\Debug\net8.0\ClassLibrary.dll
+D:\Step\3 course\networkProgramming\lesson5\homework\BuyerLibrary\ConsoleApp1\bin\Debug\net8.0\ClassLibrary.pdb

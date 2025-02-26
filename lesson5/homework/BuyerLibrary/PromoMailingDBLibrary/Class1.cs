@@ -2,10 +2,12 @@
 using System.Collections.Generic;
 using Microsoft.Extensions.Configuration;
 
-using BuyerLibrary;
-using CountryStocksLibrary;
-using DiscountedItemsLibrary;
-using ListSectionsLibrary;
+using MyApp.Models;
+
+//using BuyerLibrary;
+//using CountryStocksLibrary;
+//using DiscountedItemsLibrary;
+//using ListSectionsLibrary;
 
 namespace PromoMailingDBLibrary {
     public class PromoMailingDB :DbContext {
@@ -30,7 +32,7 @@ namespace PromoMailingDBLibrary {
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
             // метод UseLazyLoadingProxies() делает доступной ленивую загрузку.
-            optionsBuilder.UseLazyLoadingProxies();
+            //optionsBuilder.UseLazyLoadingProxies();
         }
     }
 }

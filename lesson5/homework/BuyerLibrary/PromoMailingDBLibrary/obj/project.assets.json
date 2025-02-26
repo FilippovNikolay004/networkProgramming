@@ -1194,67 +1194,14 @@
           }
         }
       },
-      "BuyerLibrary/1.0.0": {
+      "ClassLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "ListSectionsLibrary": "1.0.0",
-          "Microsoft.EntityFrameworkCore.Proxies": "9.0.2",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.2",
-          "Microsoft.Extensions.Configuration.Json": "9.0.2"
-        },
         "compile": {
-          "bin/placeholder/BuyerLibrary.dll": {}
+          "bin/placeholder/ClassLibrary.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BuyerLibrary.dll": {}
-        }
-      },
-      "CountryStocksLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Proxies": "9.0.2",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.2",
-          "Microsoft.Extensions.Configuration.Json": "9.0.2"
-        },
-        "compile": {
-          "bin/placeholder/CountryStocksLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CountryStocksLibrary.dll": {}
-        }
-      },
-      "DiscountedItemsLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "CountryStocksLibrary": "1.0.0",
-          "ListSectionsLibrary": "1.0.0",
-          "Microsoft.EntityFrameworkCore.Proxies": "9.0.2",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.2",
-          "Microsoft.Extensions.Configuration.Json": "9.0.2"
-        },
-        "compile": {
-          "bin/placeholder/DiscountedItemsLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/DiscountedItemsLibrary.dll": {}
-        }
-      },
-      "ListSectionsLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Proxies": "9.0.2",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.2",
-          "Microsoft.Extensions.Configuration.Json": "9.0.2"
-        },
-        "compile": {
-          "bin/placeholder/ListSectionsLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ListSectionsLibrary.dll": {}
+          "bin/placeholder/ClassLibrary.dll": {}
         }
       }
     }
@@ -3287,33 +3234,15 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "BuyerLibrary/1.0.0": {
+    "ClassLibrary/1.0.0": {
       "type": "project",
-      "path": "../BuyerLibrary/BuyerLibrary.csproj",
-      "msbuildProject": "../BuyerLibrary/BuyerLibrary.csproj"
-    },
-    "CountryStocksLibrary/1.0.0": {
-      "type": "project",
-      "path": "../CountryStocksLibrary/CountryStocksLibrary.csproj",
-      "msbuildProject": "../CountryStocksLibrary/CountryStocksLibrary.csproj"
-    },
-    "DiscountedItemsLibrary/1.0.0": {
-      "type": "project",
-      "path": "../DiscountedItemsLibrary/DiscountedItemsLibrary.csproj",
-      "msbuildProject": "../DiscountedItemsLibrary/DiscountedItemsLibrary.csproj"
-    },
-    "ListSectionsLibrary/1.0.0": {
-      "type": "project",
-      "path": "../ListSections/ListSectionsLibrary.csproj",
-      "msbuildProject": "../ListSections/ListSectionsLibrary.csproj"
+      "path": "../ClassLibrary/ClassLibrary.csproj",
+      "msbuildProject": "../ClassLibrary/ClassLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "BuyerLibrary >= 1.0.0",
-      "CountryStocksLibrary >= 1.0.0",
-      "DiscountedItemsLibrary >= 1.0.0",
-      "ListSectionsLibrary >= 1.0.0",
+      "ClassLibrary >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Proxies >= 9.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.2",
       "Microsoft.Extensions.Configuration.Json >= 9.0.2"
@@ -3351,17 +3280,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\BuyerLibrary\\BuyerLibrary.csproj": {
-              "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\BuyerLibrary\\BuyerLibrary.csproj"
-            },
-            "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\CountryStocksLibrary\\CountryStocksLibrary.csproj": {
-              "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\CountryStocksLibrary\\CountryStocksLibrary.csproj"
-            },
-            "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\DiscountedItemsLibrary\\DiscountedItemsLibrary.csproj": {
-              "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\DiscountedItemsLibrary\\DiscountedItemsLibrary.csproj"
-            },
-            "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ListSections\\ListSectionsLibrary.csproj": {
-              "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ListSections\\ListSectionsLibrary.csproj"
+            "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ClassLibrary\\ClassLibrary.csproj": {
+              "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ClassLibrary\\ClassLibrary.csproj"
             }
           }
         }

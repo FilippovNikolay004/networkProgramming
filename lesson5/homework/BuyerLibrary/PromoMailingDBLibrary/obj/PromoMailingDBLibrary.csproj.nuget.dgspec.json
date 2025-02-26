@@ -4,97 +4,14 @@
     "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\PromoMailingDBLibrary\\PromoMailingDBLibrary.csproj": {}
   },
   "projects": {
-    "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\BuyerLibrary\\BuyerLibrary.csproj": {
+    "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\BuyerLibrary\\BuyerLibrary.csproj",
-        "projectName": "BuyerLibrary",
-        "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\BuyerLibrary\\BuyerLibrary.csproj",
+        "projectUniqueName": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ClassLibrary\\ClassLibrary.csproj",
+        "projectName": "ClassLibrary",
+        "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ClassLibrary\\ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-        "outputPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\BuyerLibrary\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Nikolay Filippov\\Program files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ListSections\\ListSectionsLibrary.csproj": {
-                "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ListSections\\ListSectionsLibrary.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.Proxies": {
-              "target": "Package",
-              "version": "[9.0.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[9.0.2, )"
-            },
-            "Microsoft.Extensions.Configuration.Json": {
-              "target": "Package",
-              "version": "[9.0.2, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\CountryStocksLibrary\\CountryStocksLibrary.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\CountryStocksLibrary\\CountryStocksLibrary.csproj",
-        "projectName": "CountryStocksLibrary",
-        "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\CountryStocksLibrary\\CountryStocksLibrary.csproj",
-        "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-        "outputPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\CountryStocksLibrary\\obj\\",
+        "outputPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Nikolay Filippov\\Program files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -132,185 +49,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.Proxies": {
-              "target": "Package",
-              "version": "[9.0.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[9.0.2, )"
-            },
-            "Microsoft.Extensions.Configuration.Json": {
-              "target": "Package",
-              "version": "[9.0.2, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\DiscountedItemsLibrary\\DiscountedItemsLibrary.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\DiscountedItemsLibrary\\DiscountedItemsLibrary.csproj",
-        "projectName": "DiscountedItemsLibrary",
-        "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\DiscountedItemsLibrary\\DiscountedItemsLibrary.csproj",
-        "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-        "outputPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\DiscountedItemsLibrary\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Nikolay Filippov\\Program files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\CountryStocksLibrary\\CountryStocksLibrary.csproj": {
-                "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\CountryStocksLibrary\\CountryStocksLibrary.csproj"
-              },
-              "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ListSections\\ListSectionsLibrary.csproj": {
-                "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ListSections\\ListSectionsLibrary.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.Proxies": {
-              "target": "Package",
-              "version": "[9.0.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[9.0.2, )"
-            },
-            "Microsoft.Extensions.Configuration.Json": {
-              "target": "Package",
-              "version": "[9.0.2, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ListSections\\ListSectionsLibrary.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ListSections\\ListSectionsLibrary.csproj",
-        "projectName": "ListSectionsLibrary",
-        "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ListSections\\ListSectionsLibrary.csproj",
-        "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-        "outputPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ListSections\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Nikolay Filippov\\Program files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.Proxies": {
-              "target": "Package",
-              "version": "[9.0.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[9.0.2, )"
-            },
-            "Microsoft.Extensions.Configuration.Json": {
-              "target": "Package",
-              "version": "[9.0.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -359,17 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\BuyerLibrary\\BuyerLibrary.csproj": {
-                "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\BuyerLibrary\\BuyerLibrary.csproj"
-              },
-              "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\CountryStocksLibrary\\CountryStocksLibrary.csproj": {
-                "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\CountryStocksLibrary\\CountryStocksLibrary.csproj"
-              },
-              "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\DiscountedItemsLibrary\\DiscountedItemsLibrary.csproj": {
-                "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\DiscountedItemsLibrary\\DiscountedItemsLibrary.csproj"
-              },
-              "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ListSections\\ListSectionsLibrary.csproj": {
-                "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ListSections\\ListSectionsLibrary.csproj"
+              "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "D:\\Step\\3 course\\networkProgramming\\lesson5\\homework\\BuyerLibrary\\ClassLibrary\\ClassLibrary.csproj"
               }
             }
           }

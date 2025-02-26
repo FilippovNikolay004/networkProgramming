@@ -13,10 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BuyerLibrary\BuyerLibrary.csproj" />
-    <ProjectReference Include="..\CountryStocksLibrary\CountryStocksLibrary.csproj" />
-    <ProjectReference Include="..\DiscountedItemsLibrary\DiscountedItemsLibrary.csproj" />
-    <ProjectReference Include="..\ListSections\ListSectionsLibrary.csproj" />
+    <ProjectReference Include="..\ClassLibrary\ClassLibrary.csproj" />
   </ItemGroup>
 
 </Project>
