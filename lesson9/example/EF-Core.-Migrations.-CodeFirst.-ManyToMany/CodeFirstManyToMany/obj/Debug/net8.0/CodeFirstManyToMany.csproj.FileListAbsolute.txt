@@ -1,0 +1,151 @@
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\CodeFirstManyToMany.exe
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\appsettings.json
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\CodeFirstManyToMany.deps.json
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\CodeFirstManyToMany.runtimeconfig.json
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\CodeFirstManyToMany.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\CodeFirstManyToMany.pdb
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Humanizer.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirstManyToMany.csproj.AssemblyReference.cache
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirstManyToMany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirstManyToMany.AssemblyInfoInputs.cache
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirstManyToMany.AssemblyInfo.cs
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirstManyToMany.csproj.CoreCompileInputs.cache
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirs.E869EC0E.Up2Date
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirstManyToMany.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\obj\Debug\net8.0\refint\CodeFirstManyToMany.dll
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirstManyToMany.pdb
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirstManyToMany.genruntimeconfig.cache
+C:\Users\krisc\OneDrive\Desktop\EF-Core.-Migrations.-CodeFirst.-ManyToMany-master\CodeFirstManyToMany\obj\Debug\net8.0\ref\CodeFirstManyToMany.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\CodeFirstManyToMany.exe
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\appsettings.json
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\CodeFirstManyToMany.deps.json
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\CodeFirstManyToMany.runtimeconfig.json
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\CodeFirstManyToMany.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\CodeFirstManyToMany.pdb
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Azure.Core.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Azure.Identity.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Humanizer.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\System.CodeDom.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirstManyToMany.csproj.AssemblyReference.cache
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirstManyToMany.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirstManyToMany.AssemblyInfoInputs.cache
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirstManyToMany.AssemblyInfo.cs
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirstManyToMany.csproj.CoreCompileInputs.cache
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirstManyToMany.sourcelink.json
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirs.E869EC0E.Up2Date
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirstManyToMany.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\obj\Debug\net8.0\refint\CodeFirstManyToMany.dll
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirstManyToMany.pdb
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\obj\Debug\net8.0\CodeFirstManyToMany.genruntimeconfig.cache
+D:\Step\3 course\networkProgramming\lesson9\example\EF-Core.-Migrations.-CodeFirst.-ManyToMany\CodeFirstManyToMany\obj\Debug\net8.0\ref\CodeFirstManyToMany.dll
