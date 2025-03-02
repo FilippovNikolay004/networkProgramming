@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework", "homework\homework.csproj", "{E758E7B7-46A0-4F69-964E-36B87F9D6B2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITPersonnelDBLibrary", "ITPersonnelDBLibrary\ITPersonnelDBLibrary.csproj", "{77818D81-14CC-4018-B1C1-72D93420B17C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E758E7B7-46A0-4F69-964E-36B87F9D6B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E758E7B7-46A0-4F69-964E-36B87F9D6B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E758E7B7-46A0-4F69-964E-36B87F9D6B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E758E7B7-46A0-4F69-964E-36B87F9D6B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77818D81-14CC-4018-B1C1-72D93420B17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77818D81-14CC-4018-B1C1-72D93420B17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77818D81-14CC-4018-B1C1-72D93420B17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77818D81-14CC-4018-B1C1-72D93420B17C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A32A4823-FA07-4C25-AE32-B0F275070E50}
+	EndGlobalSection
+EndGlobal

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SQL в Entity Framework Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2643032e39034698f910cf26346c021a1fea1233")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d87a4251b27535853b98c701c5d55fdba4db9f90")]
 [assembly: System.Reflection.AssemblyProductAttribute("SQL в Entity Framework Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SQL в Entity Framework Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
