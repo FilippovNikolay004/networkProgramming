@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Step\\3 course\\networkProgramming\\lesson9\\homework\\homework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2652C43-467E-4FC6-9852-830072748938}|homework\\homework.csproj|d:\\step\\3 course\\networkprogramming\\lesson9\\homework\\homework\\homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2652C43-467E-4FC6-9852-830072748938}|homework\\homework.csproj|solutionrelative:homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65415A4C-4D74-40E1-B6E9-5BCB693EA951}|WinFormsApp1\\WinFormsApp1.csproj|d:\\step\\3 course\\networkprogramming\\lesson9\\homework\\homework\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65415A4C-4D74-40E1-B6E9-5BCB693EA951}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65415A4C-4D74-40E1-B6E9-5BCB693EA951}|WinFormsApp1\\WinFormsApp1.csproj|d:\\step\\3 course\\networkprogramming\\lesson9\\homework\\homework\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{65415A4C-4D74-40E1-B6E9-5BCB693EA951}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65415A4C-4D74-40E1-B6E9-5BCB693EA951}|WinFormsApp1\\WinFormsApp1.csproj|d:\\step\\3 course\\networkprogramming\\lesson9\\homework\\homework\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65415A4C-4D74-40E1-B6E9-5BCB693EA951}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2652C43-467E-4FC6-9852-830072748938}|homework\\homework.csproj|d:\\step\\3 course\\networkprogramming\\lesson9\\homework\\homework\\homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2652C43-467E-4FC6-9852-830072748938}|homework\\homework.csproj|solutionrelative:homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2652C43-467E-4FC6-9852-830072748938}|homework\\homework.csproj|d:\\step\\3 course\\networkprogramming\\lesson9\\homework\\homework\\homework\\academiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,41 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson9\\homework\\homework\\homework\\Program.cs",
-              "RelativeDocumentMoniker": "homework\\Program.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson9\\homework\\homework\\homework\\Program.cs",
-              "RelativeToolTip": "homework\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T10:01:32.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AcademicContext.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson9\\homework\\homework\\homework\\AcademicContext.cs",
               "RelativeDocumentMoniker": "homework\\AcademicContext.cs",
               "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson9\\homework\\homework\\homework\\AcademicContext.cs",
               "RelativeToolTip": "homework\\AcademicContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwFYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:50:14.855Z",
+              "WhenOpened": "2025-03-03T17:32:16.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson9\\homework\\homework\\WinFormsApp1\\Form1.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson9\\homework\\homework\\WinFormsApp1\\Form1.cs",
-              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson9\\homework\\homework\\homework\\Program.cs",
+              "RelativeDocumentMoniker": "homework\\Program.cs",
+              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson9\\homework\\homework\\homework\\Program.cs",
+              "RelativeToolTip": "homework\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwGEAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:49:52.323Z",
+              "WhenOpened": "2025-03-03T10:01:32.573Z",
               "EditorCaption": ""
             },
             {
@@ -84,8 +71,21 @@
               "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson9\\homework\\homework\\WinFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "WinFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:49:49.779Z",
+              "WhenOpened": "2025-03-03T17:10:10.57Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson9\\homework\\homework\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson9\\homework\\homework\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:49:52.323Z",
+              "EditorCaption": ""
             }
           ]
         }

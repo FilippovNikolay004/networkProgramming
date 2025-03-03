@@ -1,6 +1,7 @@
 using System;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
 using AcademicLibrary;
+using Microsoft.EntityFrameworkCore;
 
 namespace homework {
     public partial class Form1 :Form {
@@ -11,46 +12,49 @@ namespace homework {
 
             try {
                 db = new AcademicContext();
-            } catch (Exception ex) {
+            }
+            catch (Exception ex) {
                 MessageBox.Show($"Ошибка при работе с базой: {ex.Message}\n{ex.InnerException?.Message}");
             }
 
-            UpdateDataGridView();
+            LoadTables();
+        }
 
-            buttonEditEmploye.Enabled = false;
+        private void LoadTables() {
+            comboBox1.Items.AddRange(["Subjects", "Teachers", "Curators", "Faculties", "Departments", "Groups", "GroupsLectures", "Lectures", "GroupsCurators"]);
+            comboBox1.SelectedIndex = 0;
+            LoadDataGrid(comboBox1.Text);
         }
 
         private void button1_Click(object sender, EventArgs e) {
-           
-
-            UpdateDataGridView();
+            MessageBox.Show($"Выбрана таблица: {comboBox1.SelectedItem}");
+        }
+        
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e) {
+            LoadDataGrid(comboBox1.Text);
         }
 
-        private void buttonDeleteEmploye_Click(object sender, EventArgs e) {
-            
-            UpdateDataGridView();
-        }
+        private void LoadDataGrid(string tableName) {
+            dataGridView1.DataSource = null;
 
-        private void buttonEditEmploye_Click(object sender, EventArgs e) {
-            
-
-            UpdateDataGridView();
-        }
-
-        private void dataGridView1_CellDoubleClick(object sender, DataGridViewCellEventArgs e) {
-            buttonEditEmploye.Enabled = true;
-        }
-
-        // Метод для обновления DataGridView
-        private void UpdateDataGridView() {
-            try {
-                var employees = db.Groups.ToList();
-
-                // Устанавливаем DataSource для DataGridView
-                dataGridView1.DataSource = employees;
-            }
-            catch (Exception ex) {
-                MessageBox.Show($"Произошла ошибка: {ex.Message}", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            if (tableName == "Subjects") {
+                dataGridView1.DataSource = db.Subjects.ToList();
+            } else if (tableName == "Teachers") {
+                dataGridView1.DataSource = db.Teachers.ToList();
+            } else if (tableName == "Curators") {
+                dataGridView1.DataSource = db.Curators.ToList();
+            } else if (tableName == "Faculties") {
+                dataGridView1.DataSource = db.Faculties.ToList();
+            } else if (tableName == "Departments") {
+                dataGridView1.DataSource = db.Departments.ToList();
+            } else if (tableName == "Groups") {
+                dataGridView1.DataSource = db.Groups.ToList();
+            } else if (tableName == "GroupsLectures") {
+                dataGridView1.DataSource = db.GroupsLectures.ToList();
+            } else if (tableName == "Lectures") {
+                dataGridView1.DataSource = db.Lectures.ToList();
+            } else if (tableName == "GroupsCurators") {
+                dataGridView1.DataSource = db.GroupsCurators.ToList();
             }
         }
     }
