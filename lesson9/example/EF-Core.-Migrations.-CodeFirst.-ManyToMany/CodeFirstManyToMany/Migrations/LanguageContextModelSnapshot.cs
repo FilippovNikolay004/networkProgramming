@@ -34,7 +34,7 @@ namespace CodeFirstManyToMany.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Continents", (string)null);
+                    b.ToTable("Continents");
                 });
 
             modelBuilder.Entity("CodeFirstManyToMany.Country", b =>
@@ -50,7 +50,7 @@ namespace CodeFirstManyToMany.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Countries", (string)null);
+                    b.ToTable("Countries");
                 });
 
             modelBuilder.Entity("CodeFirstManyToMany.Language", b =>
@@ -66,7 +66,7 @@ namespace CodeFirstManyToMany.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Languages", (string)null);
+                    b.ToTable("Languages");
                 });
 
             modelBuilder.Entity("ContinentLanguage", b =>
@@ -81,7 +81,7 @@ namespace CodeFirstManyToMany.Migrations
 
                     b.HasIndex("LanguagesId");
 
-                    b.ToTable("ContinentLanguage", (string)null);
+                    b.ToTable("ContinentLanguage");
                 });
 
             modelBuilder.Entity("ContinentLanguage", b =>

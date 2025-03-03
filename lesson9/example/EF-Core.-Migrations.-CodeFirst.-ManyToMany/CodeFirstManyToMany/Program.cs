@@ -8,6 +8,7 @@ namespace CodeFirstManyToMany {
         static void Main(string[] args) {
             try {
                 using (LanguageContext db = new LanguageContext()) {
+                    /*
                     List<Language> list = db.Languages.Include(l => l.Continents).ToList();
                     if (list == null || list.Count() == 0) {
                         Language lang1 = new Language { Name = "Английский" };
@@ -49,6 +50,7 @@ namespace CodeFirstManyToMany {
                             Console.WriteLine("\t" + cont.Name);
                         }
                     }
+                    */
                 }
             }
             catch (Exception ex) {
