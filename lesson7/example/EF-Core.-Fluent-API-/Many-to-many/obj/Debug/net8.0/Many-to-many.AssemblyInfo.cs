@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Many-to-many")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2643032e39034698f910cf26346c021a1fea1233")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b9db71392cb615f2c1c60868fe33d44d161e921")]
 [assembly: System.Reflection.AssemblyProductAttribute("Many-to-many")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Many-to-many")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

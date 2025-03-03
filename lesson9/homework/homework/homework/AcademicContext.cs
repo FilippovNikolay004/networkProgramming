@@ -33,7 +33,6 @@ namespace AcademicLibrary {
     }
 
 
-
     public class Departments {
         public int Id { get; set; }
         public int Financing { get; set; }

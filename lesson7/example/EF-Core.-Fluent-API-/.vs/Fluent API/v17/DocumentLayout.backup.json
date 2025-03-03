@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Step\\3 course\\networkProgramming\\lesson7\\example\\EF-Core.-Fluent-API-\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8A0F49-C61E-41A1-AF05-B8CB8F83215D}|Many-to-many\\Many-to-many.csproj|d:\\step\\3 course\\networkprogramming\\lesson7\\example\\ef-core.-fluent-api-\\many-to-many\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8A0F49-C61E-41A1-AF05-B8CB8F83215D}|Many-to-many\\Many-to-many.csproj|solutionrelative:many-to-many\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson7\\example\\EF-Core.-Fluent-API-\\Many-to-many\\Program.cs",
+              "RelativeDocumentMoniker": "Many-to-many\\Program.cs",
+              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson7\\example\\EF-Core.-Fluent-API-\\Many-to-many\\Program.cs",
+              "RelativeToolTip": "Many-to-many\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:39:51.797Z",
+              "EditorCaption": ""
             }
           ]
         }

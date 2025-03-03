@@ -91,7 +91,7 @@ namespace Many_to_many
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=KRIS;Database=Many_to_Many;Integrated Security=SSPI;TrustServerCertificate=true");
+            optionsBuilder.UseSqlServer(@"Server=LAPTOP-31VSBGAE;Database=Many_to_Many;Integrated Security=SSPI;TrustServerCertificate=true");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

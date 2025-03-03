@@ -65,6 +65,7 @@ namespace One_to_Many
         public string LastName { get; set; }
         public int Age { get; set; }
         public double PointAverage { get; set; }
+
         [ForeignKey("AcademyGroupIdent")]
         public AcademyGroup AcademyGroup { get; set; }
 
