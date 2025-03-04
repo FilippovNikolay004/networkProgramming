@@ -1,0 +1,71 @@
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\DapperAcademyGroup.exe
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\appsettings.json
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\DapperAcademyGroup.deps.json
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\DapperAcademyGroup.runtimeconfig.json
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\DapperAcademyGroup.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\DapperAcademyGroup.pdb
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\Dapper.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\obj\Debug\net8.0\DapperAcademyGroup.csproj.AssemblyReference.cache
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\obj\Debug\net8.0\DapperAcademyGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\obj\Debug\net8.0\DapperAcademyGroup.AssemblyInfoInputs.cache
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\obj\Debug\net8.0\DapperAcademyGroup.AssemblyInfo.cs
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\obj\Debug\net8.0\DapperAcademyGroup.csproj.CoreCompileInputs.cache
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\obj\Debug\net8.0\DapperAc.8F5EA115.Up2Date
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\obj\Debug\net8.0\DapperAcademyGroup.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\obj\Debug\net8.0\refint\DapperAcademyGroup.dll
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\obj\Debug\net8.0\DapperAcademyGroup.pdb
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\obj\Debug\net8.0\DapperAcademyGroup.genruntimeconfig.cache
+C:\Users\krisc\OneDrive\Desktop\Dapper-ORM-master\DapperAcademyGroup\obj\Debug\net8.0\ref\DapperAcademyGroup.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\DapperAcademyGroup.exe
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\appsettings.json
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\DapperAcademyGroup.deps.json
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\DapperAcademyGroup.runtimeconfig.json
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\DapperAcademyGroup.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\DapperAcademyGroup.pdb
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\Dapper.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\obj\Debug\net8.0\DapperAcademyGroup.csproj.AssemblyReference.cache
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\obj\Debug\net8.0\DapperAcademyGroup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\obj\Debug\net8.0\DapperAcademyGroup.AssemblyInfoInputs.cache
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\obj\Debug\net8.0\DapperAcademyGroup.AssemblyInfo.cs
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\obj\Debug\net8.0\DapperAcademyGroup.csproj.CoreCompileInputs.cache
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\obj\Debug\net8.0\DapperAcademyGroup.sourcelink.json
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\obj\Debug\net8.0\DapperAc.8F5EA115.Up2Date
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\obj\Debug\net8.0\DapperAcademyGroup.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\obj\Debug\net8.0\refint\DapperAcademyGroup.dll
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\obj\Debug\net8.0\DapperAcademyGroup.pdb
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\obj\Debug\net8.0\DapperAcademyGroup.genruntimeconfig.cache
+D:\Step\3 course\networkProgramming\lesson11\example\Dapper-ORM\DapperAcademyGroup\obj\Debug\net8.0\ref\DapperAcademyGroup.dll

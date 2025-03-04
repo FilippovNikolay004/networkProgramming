@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Step\\3 course\\networkProgramming\\lesson11\\homework\\homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB234D84-43E2-423B-AE1C-FA9106A34AEB}|homework\\homework.csproj|d:\\step\\3 course\\networkprogramming\\lesson11\\homework\\homework\\homework\\promomailingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB234D84-43E2-423B-AE1C-FA9106A34AEB}|homework\\homework.csproj|solutionrelative:homework\\promomailingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB234D84-43E2-423B-AE1C-FA9106A34AEB}|homework\\homework.csproj|d:\\step\\3 course\\networkprogramming\\lesson11\\homework\\homework\\homework\\listsections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB234D84-43E2-423B-AE1C-FA9106A34AEB}|homework\\homework.csproj|solutionrelative:homework\\listsections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB234D84-43E2-423B-AE1C-FA9106A34AEB}|homework\\homework.csproj|d:\\step\\3 course\\networkprogramming\\lesson11\\homework\\homework\\homework\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB234D84-43E2-423B-AE1C-FA9106A34AEB}|homework\\homework.csproj|solutionrelative:homework\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB234D84-43E2-423B-AE1C-FA9106A34AEB}|homework\\homework.csproj|d:\\step\\3 course\\networkprogramming\\lesson11\\homework\\homework\\homework\\countrystocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB234D84-43E2-423B-AE1C-FA9106A34AEB}|homework\\homework.csproj|solutionrelative:homework\\countrystocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB234D84-43E2-423B-AE1C-FA9106A34AEB}|homework\\homework.csproj|d:\\step\\3 course\\networkprogramming\\lesson11\\homework\\homework\\homework\\discounteditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB234D84-43E2-423B-AE1C-FA9106A34AEB}|homework\\homework.csproj|solutionrelative:homework\\discounteditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson11\\homework\\homework\\homework\\Buyer.cs",
+              "RelativeDocumentMoniker": "homework\\Buyer.cs",
+              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson11\\homework\\homework\\homework\\Buyer.cs",
+              "RelativeToolTip": "homework\\Buyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:35:12.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountryStocks.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson11\\homework\\homework\\homework\\CountryStocks.cs",
+              "RelativeDocumentMoniker": "homework\\CountryStocks.cs",
+              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson11\\homework\\homework\\homework\\CountryStocks.cs",
+              "RelativeToolTip": "homework\\CountryStocks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:34:54.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiscountedItems.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson11\\homework\\homework\\homework\\DiscountedItems.cs",
+              "RelativeDocumentMoniker": "homework\\DiscountedItems.cs",
+              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson11\\homework\\homework\\homework\\DiscountedItems.cs",
+              "RelativeToolTip": "homework\\DiscountedItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:34:07.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListSections.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson11\\homework\\homework\\homework\\ListSections.cs",
+              "RelativeDocumentMoniker": "homework\\ListSections.cs",
+              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson11\\homework\\homework\\homework\\ListSections.cs",
+              "RelativeToolTip": "homework\\ListSections.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:33:25.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PromoMailingDB.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson11\\homework\\homework\\homework\\PromoMailingDB.cs",
+              "RelativeDocumentMoniker": "homework\\PromoMailingDB.cs",
+              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson11\\homework\\homework\\homework\\PromoMailingDB.cs",
+              "RelativeToolTip": "homework\\PromoMailingDB.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwDkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:12:25.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
