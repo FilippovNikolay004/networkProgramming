@@ -5,46 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C8364D0F-C913-4598-86DB-92E7BBAAB568}|ExamProject\\ExamProject.csproj|d:\\step\\3 course\\networkprogramming\\examproject\\examproject\\examproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8364D0F-C913-4598-86DB-92E7BBAAB568}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CAEC862-CC76-4DAC-99F8-CB51D6FEE7A6}|BookstoreDBLibrary\\BookstoreDBLibrary.csproj|d:\\step\\3 course\\networkprogramming\\examproject\\examproject\\bookstoredblibrary\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CAEC862-CC76-4DAC-99F8-CB51D6FEE7A6}|BookstoreDBLibrary\\BookstoreDBLibrary.csproj|solutionrelative:bookstoredblibrary\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CAEC862-CC76-4DAC-99F8-CB51D6FEE7A6}|BookstoreDBLibrary\\BookstoreDBLibrary.csproj|d:\\step\\3 course\\networkprogramming\\examproject\\examproject\\bookstoredblibrary\\salesreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CAEC862-CC76-4DAC-99F8-CB51D6FEE7A6}|BookstoreDBLibrary\\BookstoreDBLibrary.csproj|solutionrelative:bookstoredblibrary\\salesreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CAEC862-CC76-4DAC-99F8-CB51D6FEE7A6}|BookstoreDBLibrary\\BookstoreDBLibrary.csproj|d:\\step\\3 course\\networkprogramming\\examproject\\examproject\\bookstoredblibrary\\reservedbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CAEC862-CC76-4DAC-99F8-CB51D6FEE7A6}|BookstoreDBLibrary\\BookstoreDBLibrary.csproj|solutionrelative:bookstoredblibrary\\reservedbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CAEC862-CC76-4DAC-99F8-CB51D6FEE7A6}|BookstoreDBLibrary\\BookstoreDBLibrary.csproj|d:\\step\\3 course\\networkprogramming\\examproject\\examproject\\bookstoredblibrary\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CAEC862-CC76-4DAC-99F8-CB51D6FEE7A6}|BookstoreDBLibrary\\BookstoreDBLibrary.csproj|solutionrelative:bookstoredblibrary\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CAEC862-CC76-4DAC-99F8-CB51D6FEE7A6}|BookstoreDBLibrary\\BookstoreDBLibrary.csproj|d:\\step\\3 course\\networkprogramming\\examproject\\examproject\\bookstoredblibrary\\bookstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CAEC862-CC76-4DAC-99F8-CB51D6FEE7A6}|BookstoreDBLibrary\\BookstoreDBLibrary.csproj|solutionrelative:bookstoredblibrary\\bookstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CAEC862-CC76-4DAC-99F8-CB51D6FEE7A6}|BookstoreDBLibrary\\BookstoreDBLibrary.csproj|d:\\step\\3 course\\networkprogramming\\examproject\\examproject\\bookstoredblibrary\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CAEC862-CC76-4DAC-99F8-CB51D6FEE7A6}|BookstoreDBLibrary\\BookstoreDBLibrary.csproj|solutionrelative:bookstoredblibrary\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CAEC862-CC76-4DAC-99F8-CB51D6FEE7A6}|BookstoreDBLibrary\\BookstoreDBLibrary.csproj|d:\\step\\3 course\\networkprogramming\\examproject\\examproject\\bookstoredblibrary\\bookpromotions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CAEC862-CC76-4DAC-99F8-CB51D6FEE7A6}|BookstoreDBLibrary\\BookstoreDBLibrary.csproj|solutionrelative:bookstoredblibrary\\bookpromotions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CAEC862-CC76-4DAC-99F8-CB51D6FEE7A6}|BookstoreDBLibrary\\BookstoreDBLibrary.csproj|d:\\step\\3 course\\networkprogramming\\examproject\\examproject\\bookstoredblibrary\\bookauthors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CAEC862-CC76-4DAC-99F8-CB51D6FEE7A6}|BookstoreDBLibrary\\BookstoreDBLibrary.csproj|solutionrelative:bookstoredblibrary\\bookauthors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CAEC862-CC76-4DAC-99F8-CB51D6FEE7A6}|BookstoreDBLibrary\\BookstoreDBLibrary.csproj|d:\\step\\3 course\\networkprogramming\\examproject\\examproject\\bookstoredblibrary\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CAEC862-CC76-4DAC-99F8-CB51D6FEE7A6}|BookstoreDBLibrary\\BookstoreDBLibrary.csproj|solutionrelative:bookstoredblibrary\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8364D0F-C913-4598-86DB-92E7BBAAB568}|ExamProject\\ExamProject.csproj|d:\\step\\3 course\\networkprogramming\\examproject\\examproject\\examproject\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8364D0F-C913-4598-86DB-92E7BBAAB568}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,136 +26,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BookAuthors.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\BookstoreDBLibrary\\BookAuthors.cs",
-              "RelativeDocumentMoniker": "BookstoreDBLibrary\\BookAuthors.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\BookstoreDBLibrary\\BookAuthors.cs",
-              "RelativeToolTip": "BookstoreDBLibrary\\BookAuthors.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T09:31:48.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BookPromotions.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\BookstoreDBLibrary\\BookPromotions.cs",
-              "RelativeDocumentMoniker": "BookstoreDBLibrary\\BookPromotions.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\BookstoreDBLibrary\\BookPromotions.cs",
-              "RelativeToolTip": "BookstoreDBLibrary\\BookPromotions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T09:31:52.562Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ReservedBooks.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\BookstoreDBLibrary\\ReservedBooks.cs",
-              "RelativeDocumentMoniker": "BookstoreDBLibrary\\ReservedBooks.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\BookstoreDBLibrary\\ReservedBooks.cs",
-              "RelativeToolTip": "BookstoreDBLibrary\\ReservedBooks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T09:32:01.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SalesReports.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\BookstoreDBLibrary\\SalesReports.cs",
-              "RelativeDocumentMoniker": "BookstoreDBLibrary\\SalesReports.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\BookstoreDBLibrary\\SalesReports.cs",
-              "RelativeToolTip": "BookstoreDBLibrary\\SalesReports.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T09:32:04.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Users.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\BookstoreDBLibrary\\Users.cs",
-              "RelativeDocumentMoniker": "BookstoreDBLibrary\\Users.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\BookstoreDBLibrary\\Users.cs",
-              "RelativeToolTip": "BookstoreDBLibrary\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T06:35:24.15Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\ExamProject\\Program.cs",
               "RelativeDocumentMoniker": "ExamProject\\Program.cs",
               "ToolTip": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\ExamProject\\Program.cs",
               "RelativeToolTip": "ExamProject\\Program.cs",
-              "ViewState": "AgIAADICAAAAAAAAAAAkwEwCAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T14:55:56.201Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BookStock.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\BookstoreDBLibrary\\BookStock.cs",
-              "RelativeDocumentMoniker": "BookstoreDBLibrary\\BookStock.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\BookstoreDBLibrary\\BookStock.cs",
-              "RelativeToolTip": "BookstoreDBLibrary\\BookStock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T09:31:57.798Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookstoreDBContext.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\BookstoreDBLibrary\\BookstoreDBContext.cs",
-              "RelativeDocumentMoniker": "BookstoreDBLibrary\\BookstoreDBContext.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\BookstoreDBLibrary\\BookstoreDBContext.cs",
-              "RelativeToolTip": "BookstoreDBLibrary\\BookstoreDBContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T16:56:18.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Books.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\BookstoreDBLibrary\\Books.cs",
-              "RelativeDocumentMoniker": "BookstoreDBLibrary\\Books.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\BookstoreDBLibrary\\Books.cs",
-              "RelativeToolTip": "BookstoreDBLibrary\\Books.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T09:31:55.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Authors.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\BookstoreDBLibrary\\Authors.cs",
-              "RelativeDocumentMoniker": "BookstoreDBLibrary\\Authors.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\BookstoreDBLibrary\\Authors.cs",
-              "RelativeToolTip": "BookstoreDBLibrary\\Authors.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T09:31:36.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "accountManager.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\ExamProject\\accountManager.cs",
-              "RelativeDocumentMoniker": "ExamProject\\accountManager.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\ExamProject\\accountManager.cs",
-              "RelativeToolTip": "ExamProject\\accountManager.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAwKYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T06:11:26.199Z"
             }
           ]
         }

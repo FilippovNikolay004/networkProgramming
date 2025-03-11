@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{C8364D0F-C913-4598-86DB-92E7BBAAB568}|ExamProject\\ExamProject.csproj|d:\\step\\3 course\\networkprogramming\\examproject\\examproject\\examproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8364D0F-C913-4598-86DB-92E7BBAAB568}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8364D0F-C913-4598-86DB-92E7BBAAB568}|ExamProject\\ExamProject.csproj|d:\\step\\3 course\\networkprogramming\\examproject\\examproject\\examproject\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8364D0F-C913-4598-86DB-92E7BBAAB568}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,6 +27,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "accountManager.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\ExamProject\\accountManager.cs",
+              "RelativeDocumentMoniker": "ExamProject\\accountManager.cs",
+              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\ExamProject\\ExamProject\\ExamProject\\accountManager.cs",
+              "RelativeToolTip": "ExamProject\\accountManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA2wEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:37:45.873Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
