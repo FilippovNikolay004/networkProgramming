@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Step\\3 course\\networkProgramming\\lesson9\\example\\EF-Core.-Migrations.-CodeFirst.-ManyToMany\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Step\\3 course\\networkProgramming\\lesson9\\example\\EF-Core.-Migrations.-CodeFirst.-ManyToMany\\CodeFirstManyToMany\\Migrations\\20250303070414_Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstManyToMany\\Migrations\\20250303070414_Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10DDE34F-B2C1-48A5-8720-F6CFAEBC3C75}|CodeFirstManyToMany\\CodeFirstManyToMany.csproj|d:\\step\\3 course\\networkprogramming\\lesson9\\example\\ef-core.-migrations.-codefirst.-manytomany\\codefirstmanytomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10DDE34F-B2C1-48A5-8720-F6CFAEBC3C75}|CodeFirstManyToMany\\CodeFirstManyToMany.csproj|solutionrelative:codefirstmanytomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20250303070414_Test.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson9\\example\\EF-Core.-Migrations.-CodeFirst.-ManyToMany\\CodeFirstManyToMany\\Migrations\\20250303070414_Test.cs",
+              "RelativeDocumentMoniker": "CodeFirstManyToMany\\Migrations\\20250303070414_Test.cs",
+              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson9\\example\\EF-Core.-Migrations.-CodeFirst.-ManyToMany\\CodeFirstManyToMany\\Migrations\\20250303070414_Test.cs",
+              "RelativeToolTip": "CodeFirstManyToMany\\Migrations\\20250303070414_Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:04:14.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson9\\example\\EF-Core.-Migrations.-CodeFirst.-ManyToMany\\CodeFirstManyToMany\\Program.cs",
               "RelativeDocumentMoniker": "CodeFirstManyToMany\\Program.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LanguageContext.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson9\\example\\EF-Core.-Migrations.-CodeFirst.-ManyToMany\\CodeFirstManyToMany\\LanguageContext.cs",
               "RelativeDocumentMoniker": "CodeFirstManyToMany\\LanguageContext.cs",
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Language.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson9\\example\\EF-Core.-Migrations.-CodeFirst.-ManyToMany\\CodeFirstManyToMany\\Language.cs",
               "RelativeDocumentMoniker": "CodeFirstManyToMany\\Language.cs",
@@ -77,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Continent.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson9\\example\\EF-Core.-Migrations.-CodeFirst.-ManyToMany\\CodeFirstManyToMany\\Continent.cs",
               "RelativeDocumentMoniker": "CodeFirstManyToMany\\Continent.cs",

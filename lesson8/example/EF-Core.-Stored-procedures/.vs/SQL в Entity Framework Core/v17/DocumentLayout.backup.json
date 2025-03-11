@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Step\\3 course\\networkProgramming\\lesson8\\example\\EF-Core.-Stored-procedures\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{71DEF476-A7EE-4983-BBCF-07384DDFF104}|SQL \u0432 Entity Framework Core\\SQL \u0432 Entity Framework Core.csproj|d:\\step\\3 course\\networkprogramming\\lesson8\\example\\ef-core.-stored-procedures\\sql \u0432 entity framework core\\databasebookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71DEF476-A7EE-4983-BBCF-07384DDFF104}|SQL \u0432 Entity Framework Core\\SQL \u0432 Entity Framework Core.csproj|solutionrelative:sql \u0432 entity framework core\\databasebookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71DEF476-A7EE-4983-BBCF-07384DDFF104}|SQL \u0432 Entity Framework Core\\SQL \u0432 Entity Framework Core.csproj|d:\\step\\3 course\\networkprogramming\\lesson8\\example\\ef-core.-stored-procedures\\sql \u0432 entity framework core\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71DEF476-A7EE-4983-BBCF-07384DDFF104}|SQL \u0432 Entity Framework Core\\SQL \u0432 Entity Framework Core.csproj|solutionrelative:sql \u0432 entity framework core\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71DEF476-A7EE-4983-BBCF-07384DDFF104}|SQL \u0432 Entity Framework Core\\SQL \u0432 Entity Framework Core.csproj|d:\\step\\3 course\\networkprogramming\\lesson8\\example\\ef-core.-stored-procedures\\sql \u0432 entity framework core\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71DEF476-A7EE-4983-BBCF-07384DDFF104}|SQL \u0432 Entity Framework Core\\SQL \u0432 Entity Framework Core.csproj|solutionrelative:sql \u0432 entity framework core\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,45 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson8\\example\\EF-Core.-Stored-procedures\\SQL \u0432 Entity Framework Core\\Book.cs",
-              "RelativeDocumentMoniker": "SQL \u0432 Entity Framework Core\\Book.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson8\\example\\EF-Core.-Stored-procedures\\SQL \u0432 Entity Framework Core\\Book.cs",
-              "RelativeToolTip": "SQL \u0432 Entity Framework Core\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T08:59:26.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DatabaseBooksContext.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson8\\example\\EF-Core.-Stored-procedures\\SQL \u0432 Entity Framework Core\\DatabaseBooksContext.cs",
-              "RelativeDocumentMoniker": "SQL \u0432 Entity Framework Core\\DatabaseBooksContext.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson8\\example\\EF-Core.-Stored-procedures\\SQL \u0432 Entity Framework Core\\DatabaseBooksContext.cs",
-              "RelativeToolTip": "SQL \u0432 Entity Framework Core\\DatabaseBooksContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T08:56:08.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson8\\example\\EF-Core.-Stored-procedures\\SQL \u0432 Entity Framework Core\\Form1.cs",
-              "RelativeDocumentMoniker": "SQL \u0432 Entity Framework Core\\Form1.cs",
-              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson8\\example\\EF-Core.-Stored-procedures\\SQL \u0432 Entity Framework Core\\Form1.cs",
-              "RelativeToolTip": "SQL \u0432 Entity Framework Core\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T08:55:39.648Z",
-              "EditorCaption": ""
             }
           ]
         }

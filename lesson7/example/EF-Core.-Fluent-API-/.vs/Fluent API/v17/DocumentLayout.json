@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Step\\3 course\\networkProgramming\\lesson7\\example\\EF-Core.-Fluent-API-\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{94F1D799-A191-49D5-BE4A-31F657EC65C5}|One-to-Many\\One-to-Many.csproj|d:\\step\\3 course\\networkprogramming\\lesson7\\example\\ef-core.-fluent-api-\\one-to-many\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1D799-A191-49D5-BE4A-31F657EC65C5}|One-to-Many\\One-to-Many.csproj|solutionrelative:one-to-many\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67128577-34CE-4327-A56B-1B5B7998B284}|InheritanceTablePerType\\InheritanceTablePerType.csproj|d:\\step\\3 course\\networkprogramming\\lesson7\\example\\ef-core.-fluent-api-\\inheritancetablepertype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67128577-34CE-4327-A56B-1B5B7998B284}|InheritanceTablePerType\\InheritanceTablePerType.csproj|solutionrelative:inheritancetablepertype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B2F8D98-F301-4ECB-B481-E2DF6893788B}|Fluent API\\Fluent API.csproj|d:\\step\\3 course\\networkprogramming\\lesson7\\example\\ef-core.-fluent-api-\\fluent api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B2F8D98-F301-4ECB-B481-E2DF6893788B}|Fluent API\\Fluent API.csproj|solutionrelative:fluent api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E05C9F3D-1F4D-49AE-9BE7-EA12283AC58D}|InheritanceTablePerHierarchy\\InheritanceTablePerHierarchy.csproj|d:\\step\\3 course\\networkprogramming\\lesson7\\example\\ef-core.-fluent-api-\\inheritancetableperhierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E05C9F3D-1F4D-49AE-9BE7-EA12283AC58D}|InheritanceTablePerHierarchy\\InheritanceTablePerHierarchy.csproj|solutionrelative:inheritancetableperhierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67128577-34CE-4327-A56B-1B5B7998B284}|InheritanceTablePerType\\InheritanceTablePerType.csproj|d:\\step\\3 course\\networkprogramming\\lesson7\\example\\ef-core.-fluent-api-\\inheritancetablepertype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67128577-34CE-4327-A56B-1B5B7998B284}|InheritanceTablePerType\\InheritanceTablePerType.csproj|solutionrelative:inheritancetablepertype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB8A0F49-C61E-41A1-AF05-B8CB8F83215D}|Many-to-many\\Many-to-many.csproj|d:\\step\\3 course\\networkprogramming\\lesson7\\example\\ef-core.-fluent-api-\\many-to-many\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -44,18 +48,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson7\\example\\EF-Core.-Fluent-API-\\One-to-Many\\Program.cs",
+              "RelativeDocumentMoniker": "One-to-Many\\Program.cs",
+              "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson7\\example\\EF-Core.-Fluent-API-\\One-to-Many\\Program.cs",
+              "RelativeToolTip": "One-to-Many\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:27:43.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson7\\example\\EF-Core.-Fluent-API-\\Fluent API\\Program.cs",
               "RelativeDocumentMoniker": "Fluent API\\Program.cs",
               "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson7\\example\\EF-Core.-Fluent-API-\\Fluent API\\Program.cs",
               "RelativeToolTip": "Fluent API\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAA3wE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T12:07:38.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson7\\example\\EF-Core.-Fluent-API-\\InheritanceTablePerClass\\Program.cs",
               "RelativeDocumentMoniker": "InheritanceTablePerClass\\Program.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "InheritanceTablePerClass\\Program.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T12:07:35.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T12:07:35.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson7\\example\\EF-Core.-Fluent-API-\\InheritanceTablePerHierarchy\\Program.cs",
               "RelativeDocumentMoniker": "InheritanceTablePerHierarchy\\Program.cs",
@@ -76,25 +92,24 @@
               "RelativeToolTip": "InheritanceTablePerHierarchy\\Program.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T12:07:31.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T12:07:31.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson7\\example\\EF-Core.-Fluent-API-\\InheritanceTablePerType\\Program.cs",
               "RelativeDocumentMoniker": "InheritanceTablePerType\\Program.cs",
               "ToolTip": "D:\\Step\\3 course\\networkProgramming\\lesson7\\example\\EF-Core.-Fluent-API-\\InheritanceTablePerType\\Program.cs",
               "RelativeToolTip": "InheritanceTablePerType\\Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T12:07:27.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\networkProgramming\\lesson7\\example\\EF-Core.-Fluent-API-\\Many-to-many\\Program.cs",
               "RelativeDocumentMoniker": "Many-to-many\\Program.cs",
@@ -102,8 +117,7 @@
               "RelativeToolTip": "Many-to-many\\Program.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAmwF4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T11:39:51.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T11:39:51.797Z"
             }
           ]
         }

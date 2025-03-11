@@ -1,0 +1,15 @@
+D:\Step\3 course\networkProgramming\ExamProject\ExamProject\BookstoreDBLibrary\bin\Debug\net8.0\BookstoreDBLibrary.deps.json
+D:\Step\3 course\networkProgramming\ExamProject\ExamProject\BookstoreDBLibrary\bin\Debug\net8.0\BookstoreDBLibrary.runtimeconfig.json
+D:\Step\3 course\networkProgramming\ExamProject\ExamProject\BookstoreDBLibrary\bin\Debug\net8.0\BookstoreDBLibrary.dll
+D:\Step\3 course\networkProgramming\ExamProject\ExamProject\BookstoreDBLibrary\bin\Debug\net8.0\BookstoreDBLibrary.pdb
+D:\Step\3 course\networkProgramming\ExamProject\ExamProject\BookstoreDBLibrary\obj\Debug\net8.0\BookstoreDBLibrary.csproj.AssemblyReference.cache
+D:\Step\3 course\networkProgramming\ExamProject\ExamProject\BookstoreDBLibrary\obj\Debug\net8.0\BookstoreDBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\networkProgramming\ExamProject\ExamProject\BookstoreDBLibrary\obj\Debug\net8.0\BookstoreDBLibrary.AssemblyInfoInputs.cache
+D:\Step\3 course\networkProgramming\ExamProject\ExamProject\BookstoreDBLibrary\obj\Debug\net8.0\BookstoreDBLibrary.AssemblyInfo.cs
+D:\Step\3 course\networkProgramming\ExamProject\ExamProject\BookstoreDBLibrary\obj\Debug\net8.0\BookstoreDBLibrary.csproj.CoreCompileInputs.cache
+D:\Step\3 course\networkProgramming\ExamProject\ExamProject\BookstoreDBLibrary\obj\Debug\net8.0\BookstoreDBLibrary.sourcelink.json
+D:\Step\3 course\networkProgramming\ExamProject\ExamProject\BookstoreDBLibrary\obj\Debug\net8.0\BookstoreDBLibrary.dll
+D:\Step\3 course\networkProgramming\ExamProject\ExamProject\BookstoreDBLibrary\obj\Debug\net8.0\refint\BookstoreDBLibrary.dll
+D:\Step\3 course\networkProgramming\ExamProject\ExamProject\BookstoreDBLibrary\obj\Debug\net8.0\BookstoreDBLibrary.pdb
+D:\Step\3 course\networkProgramming\ExamProject\ExamProject\BookstoreDBLibrary\obj\Debug\net8.0\BookstoreDBLibrary.genruntimeconfig.cache
+D:\Step\3 course\networkProgramming\ExamProject\ExamProject\BookstoreDBLibrary\obj\Debug\net8.0\ref\BookstoreDBLibrary.dll
